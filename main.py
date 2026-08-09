@@ -67,8 +67,15 @@ FEEDS = {
 
 def load_seen():
     if os.path.exists(SEEN_FILE):
-        with open(SEEN_FILE, "r", encoding="utf-8") as f:
-            return set(json.load(f))
+        try:
+            with open(SEEN_FILE, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if not content:
+                    return set()
+                return set(json.loads(content))
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"[WARN] seen_links.json is invalid ({e}); starting fresh.")
+            return set()
     return set()
 
 
