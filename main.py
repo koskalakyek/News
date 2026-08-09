@@ -23,10 +23,10 @@ from datetime import datetime, timedelta, timezone
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-# gemini-2.5-flash: free tier, good quality/quota balance for 1 request/hour.
+# gemini-3.5-flash: مدل فعلی رایگان گوگل (نسخه‌های 2.5 منقضی شده‌اند).
 # می‌توانید با گذاشتن متغیر GEMINI_MODEL در workflow آن را عوض کنید
-# (مثلاً gemini-2.5-flash-lite برای سهمیه بیشتر، یا مدل جدیدتری که موجود شد).
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# (مثلاً gemini-3.5-flash-lite برای سهمیه بیشتر).
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 
 # How far back to look for "new" items on the very first run / if an
 # item has no reliable publish date.
