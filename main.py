@@ -158,11 +158,12 @@ def summarize_with_gemini(articles):
         "کم‌اهمیت یا تکراری (مثل گزارش‌های خیلی جزئی یا تبلیغاتی) را کنار "
         "بگذار.\n"
         "4. خلاصه هر خبر باید ۲ تا ۳ جمله، دقیق، بدون اغراق و بدون حدس و گمان باشد.\n"
-        "5. خروجی را با فرمت HTML ساده و سازگار با تلگرام بنویس: فقط از "
-        "دو تگ <b>...</b> برای عنوان بخش‌ها و <a href='لینک'>...</a> برای "
-        "لینک‌ها استفاده کن. هر تگی که باز می‌کنی حتماً باید بسته شود. از "
-        "هیچ تگ دیگری (مثل <p>، <div>، <ul>، <li>) و از Markdown استفاده "
-        "نکن.\n"
+        "5. خروجی را کاملاً به‌صورت متن ساده (Plain Text) بنویس — هیچ‌وقت از "
+        "تگ HTML یا Markdown (مثل <b>، <a>، **، []()) استفاده نکن. برای عنوان "
+        "هر بخش موضوعی، فقط نام موضوع را با یک ایموجی مناسب در ابتدای خط "
+        "بنویس (مثلاً '💰 Finance'). لینک هر خبر را در یک خط جدا و به‌صورت "
+        "کامل و دقیقاً همان‌طور که داده شده بنویس (تلگرام خودش آن را "
+        "کلیک‌پذیر می‌کند).\n"
         "6. در انتهای هر خبر نام منبع را داخل پرانتز بنویس.\n"
         "7. اگر هیچ خبر مهمی وجود نداشت، فقط بنویس: 'در این ساعت خبر مهمی یافت نشد.'"
     )
@@ -175,7 +176,7 @@ def summarize_with_gemini(articles):
                 "parts": [{"text": f"فهرست خبرهای این ساعت:\n\n{articles_text}"}],
             }
         ],
-        "generationConfig": {"maxOutputTokens": 2000, "temperature": 0.3},
+        "generationConfig": {"maxOutputTokens": 4000, "temperature": 0.3},
     }
 
     url = (
@@ -213,25 +214,15 @@ def send_telegram_message(text):
     chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)] or [text]
 
     for chunk in chunks:
+        # Plain text, no parse_mode: Telegram auto-links bare URLs on its
+        # own, so we never depend on the model producing valid markup.
         resp = requests.post(url, json={
             "chat_id": TELEGRAM_CHAT_ID,
             "text": chunk,
-            "parse_mode": "HTML",
             "disable_web_page_preview": False,
         }, timeout=30)
-
         if not resp.ok:
-            print(f"[WARN] Telegram HTML send failed ({resp.status_code}): {resp.text}")
-            print("[WARN] Retrying this chunk as plain text (tags stripped)...")
-            plain = re.sub(r"<[^>]+>", "", chunk)
-            resp2 = requests.post(url, json={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": plain,
-                "disable_web_page_preview": False,
-            }, timeout=30)
-            if not resp2.ok:
-                print(f"[ERROR] Telegram plain-text retry also failed: {resp2.status_code} {resp2.text}")
-
+            print(f"[ERROR] Telegram send failed: {resp.status_code} {resp.text}")
         time.sleep(1)
 
 
@@ -257,7 +248,7 @@ def main():
         return
 
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    header = f"🗞 <b>خلاصه اخبار مهم — {now_str}</b>\n\n"
+    header = f"🗞 خلاصه اخبار مهم — {now_str}\n\n"
     send_telegram_message(header + summary)
     print("Sent summary to Telegram.")
 
