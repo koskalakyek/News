@@ -157,7 +157,8 @@ def summarize_with_gemini(articles):
         "بگنجان، حتی اگر خیلی 'بزرگ' یا 'تاریخ‌ساز' نباشد؛ فقط خبرهای کاملاً "
         "کم‌اهمیت یا تکراری (مثل گزارش‌های خیلی جزئی یا تبلیغاتی) را کنار "
         "بگذار.\n"
-        "4. خلاصه هر خبر باید ۲ تا ۳ جمله، دقیق، بدون اغراق و بدون حدس و گمان باشد.\n"
+        "4. خلاصه هر خبر باید فقط ۱ تا ۲ جمله کوتاه، دقیق، بدون اغراق و بدون "
+        "حدس و گمان باشد (برای اینکه پاسخ کامل کوتاه و مطمئن ارسال شود).\n"
         "5. خروجی را کاملاً به‌صورت متن ساده (Plain Text) بنویس — هیچ‌وقت از "
         "تگ HTML یا Markdown (مثل <b>، <a>، **، []()) استفاده نکن. برای عنوان "
         "هر بخش موضوعی، فقط نام موضوع را با یک ایموجی مناسب در ابتدای خط "
@@ -176,7 +177,7 @@ def summarize_with_gemini(articles):
                 "parts": [{"text": f"فهرست خبرهای این ساعت:\n\n{articles_text}"}],
             }
         ],
-        "generationConfig": {"maxOutputTokens": 4000, "temperature": 0.3},
+        "generationConfig": {"maxOutputTokens": 8000, "temperature": 0.3},
     }
 
     url = (
@@ -197,6 +198,11 @@ def summarize_with_gemini(articles):
     if not candidates:
         print(f"[WARN] Gemini returned no candidates: {data}")
         return None
+
+    finish_reason = candidates[0].get("finishReason")
+    if finish_reason == "MAX_TOKENS":
+        print("[WARN] Gemini response was cut off (hit max output tokens). "
+              "Consider raising maxOutputTokens further or reducing article count.")
 
     parts = candidates[0].get("content", {}).get("parts", [])
     text = "\n".join(p.get("text", "") for p in parts).strip()
