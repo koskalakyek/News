@@ -1,0 +1,40 @@
+name: Weekly Trends Digest
+
+on:
+  schedule:
+    # هر یکشنبه، ساعت ۱۸:۰۰ UTC (حدود ۲۱:۳۰ به‌وقت ایران)
+    - cron: "0 18 * * 0"
+  workflow_dispatch: {}   # امکان اجرای دستی از تب Actions
+
+permissions:
+  contents: write   # برای پاک‌کردن weekly_log.json بعد از ارسال
+
+jobs:
+  run-weekly-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python weekly_digest.py
+
+      - name: Commit cleared weekly log
+        run: |
+          git config user.name "news-agent-bot"
+          git config user.email "actions@github.com"
+          git add weekly_log.json
+          git diff --staged --quiet || git commit -m "reset weekly log [skip ci]"
+          git push
