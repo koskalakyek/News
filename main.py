@@ -34,16 +34,30 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "6"))
 
 SEEN_FILE = "seen_links.json"
+WEEKLY_LOG_FILE = "weekly_log.json"
 
 # Curated, high-trust sources grouped by topic.
-# NOTE: Bloomberg, Ray Dalio's posts, WTO and UNCTAD do not publish
-# reliable public RSS feeds, so they are intentionally left out here.
-# See README for how to add sources manually if you find good feeds.
+# NOTE: USPTO/WIPO patent grants and the World Bank do not publish a
+# simple, reliable public RSS feed for general search results, so they
+# are intentionally left out (see README for manual alternatives).
+# Matt Levine (Bloomberg) and Stratechery do have public RSS feeds, but
+# full article text is paywalled — same limitation as the FT feed below
+# (title + short summary only, which is what gets sent to Telegram).
 FEEDS = {
     "Finance": [
         ("The Economist - Finance", "https://www.economist.com/finance-and-economics/rss.xml"),
         ("Financial Times", "https://www.ft.com/world?format=rss"),
         ("Wall Street Journal - Markets", "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
+        # منبع دست‌اول: بیانیه‌های رسمی فدرال رزرو آمریکا (نه تفسیر رسانه‌ها)
+        ("Federal Reserve - Press Releases", "https://www.federalreserve.gov/feeds/press_all.xml"),
+        # منبع دست‌اول: بیانیه‌های رسمی بانک مرکزی اروپا
+        ("ECB - Press Releases", "https://www.ecb.europa.eu/rss/press.xml"),
+        # منبع دست‌اول: اعلامیه‌های رسمی کمیسیون بورس آمریکا (SEC)
+        ("SEC - Press Releases", "https://www.sec.gov/news/pressreleases.rss"),
+        # تحلیلگر مستقل معتبر در حوزه سرمایه‌گذاری و استراتژی بازار
+        ("The Diff (Byrne Hobart)", "https://www.thediff.co/feed"),
+        # تحلیل روزانه بازار و وال‌استریت (عنوان/خلاصه رایگان، متن کامل پولی)
+        ("Money Stuff (Matt Levine)", "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss"),
     ],
     "Edge of Science": [
         ("MIT Technology Review", "https://www.technologyreview.com/feed/"),
@@ -52,11 +66,23 @@ FEEDS = {
         ("IEEE Spectrum", "https://spectrum.ieee.org/rss/fulltext"),
         ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
         ("Quanta Magazine", "https://api.quantamagazine.org/feed/"),
+        # منبع دست‌اول: خودِ مقالات علمی جدید هوش مصنوعی (قبل از پخش خبرش)
+        ("arXiv - cs.AI (هوش مصنوعی)", "https://rss.arxiv.org/rss/cs.AI"),
+        # منبع دست‌اول: مقالات جدید فیزیک کوانتوم
+        ("arXiv - quant-ph (فیزیک کوانتوم)", "https://rss.arxiv.org/rss/quant-ph"),
+        # خلاصه هفتگی معتبر و دقیق از پیشرفت‌های AI
+        ("Import AI (Jack Clark)", "https://importai.substack.com/feed"),
+        # تحلیل تکنولوژی و مدل‌های کسب‌وکار (بخشی رایگان، بخشی پولی)
+        ("Stratechery (Ben Thompson)", "https://stratechery.com/feed/"),
     ],
     "International Trade": [
         ("The Economist - Business", "https://www.economist.com/business/rss.xml"),
         ("Harvard Business Review", "https://hbr.org/feed"),
         ("Financial Times - World", "https://www.ft.com/world?format=rss"),
+        # منبع دست‌اول: گزارش‌های رسمی صندوق بین‌المللی پول
+        ("IMF - News", "https://www.imf.org/en/News/rss"),
+        # منبع دست‌اول: اخبار رسمی سازمان تجارت جهانی
+        ("WTO - News", "http://www.wto.org/library/rss/latest_news_e.xml"),
     ],
 }
 
@@ -84,6 +110,49 @@ def save_seen(seen):
     trimmed = list(seen)[-2000:]
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(trimmed, f, ensure_ascii=False, indent=2)
+
+
+def append_weekly_log(articles):
+    """Record every new article (regardless of whether the hourly digest
+    picked it) so the weekly digest has full raw material to spot trends
+    across the week, not just what got sent hourly."""
+    if not articles:
+        return
+
+    log = []
+    if os.path.exists(WEEKLY_LOG_FILE):
+        try:
+            with open(WEEKLY_LOG_FILE, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content:
+                    log = json.loads(content)
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"[WARN] weekly_log.json is invalid ({e}); starting fresh.")
+            log = []
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+    for a in articles:
+        log.append({
+            "date": now_iso,
+            "topic": a["topic"],
+            "source": a["source"],
+            "title": a["title"],
+            "link": a["link"],
+        })
+
+    # Keep only the last 9 days so the file doesn't grow forever.
+    cutoff = datetime.now(timezone.utc) - timedelta(days=9)
+
+    def entry_time(e):
+        try:
+            return datetime.fromisoformat(e["date"])
+        except (ValueError, KeyError):
+            return datetime.now(timezone.utc)
+
+    log = [e for e in log if entry_time(e) >= cutoff]
+
+    with open(WEEKLY_LOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(log, f, ensure_ascii=False, indent=2)
 
 
 # ----------------------------------------------------------------------
@@ -157,6 +226,13 @@ def summarize_with_gemini(articles):
         "بگنجان، حتی اگر خیلی 'بزرگ' یا 'تاریخ‌ساز' نباشد؛ فقط خبرهای کاملاً "
         "کم‌اهمیت یا تکراری (مثل گزارش‌های خیلی جزئی یا تبلیغاتی) را کنار "
         "بگذار.\n"
+        "3b. تایید متقاطع (Cross-verification): اگر یک رویداد یا موضوع مشابه "
+        "توسط دو یا چند منبع مستقل در فهرست پوشش داده شده، این یعنی خبر واقعاً "
+        "مهم است — این خبر را در اولویت اول قرار بده و کنار آن علامت 🔥 بگذار "
+        "و بنویس 'تایید شده توسط چند منبع'. برای منابع دست‌اول و رسمی (مثل "
+        "Federal Reserve، arXiv) که مستقیماً از خودِ رویداد یا مقاله علمی "
+        "خبر می‌دهند (نه گزارش رسانه‌ای از آن)، علامت 📌 و عبارت 'منبع دست‌اول' "
+        "را کنار خبر بگذار.\n"
         "4. خلاصه هر خبر باید فقط ۱ تا ۲ جمله کوتاه، دقیق، بدون اغراق و بدون "
         "حدس و گمان باشد (برای اینکه پاسخ کامل کوتاه و مطمئن ارسال شود).\n"
         "5. خروجی را کاملاً به‌صورت متن ساده (Plain Text) بنویس — هیچ‌وقت از "
@@ -248,6 +324,7 @@ def main():
 
     summary = summarize_with_gemini(articles)
     save_seen(seen)
+    append_weekly_log(articles)
 
     if not summary:
         print("Gemini returned no summary.")
