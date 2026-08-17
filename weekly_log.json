@@ -82,5 +82,215 @@
     "source": "Financial Times",
     "title": "Trump says US will scale back military drills with South Korea",
     "link": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "link": "https://arxiv.org/abs/2608.13564"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+    "link": "https://arxiv.org/abs/2608.13565"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "link": "https://arxiv.org/abs/2608.13567"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+    "link": "https://arxiv.org/abs/2608.13573"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+    "link": "https://arxiv.org/abs/2608.13574"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "AI Evaluation Should Work With Humans",
+    "link": "https://arxiv.org/abs/2608.13577"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+    "link": "https://arxiv.org/abs/2608.13591"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+    "link": "https://arxiv.org/abs/2608.13598"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+    "link": "https://arxiv.org/abs/2608.13604"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Active Perception for Embodied Disambiguation",
+    "link": "https://arxiv.org/abs/2608.13605"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "MobileMem: Learning from a Year of Mobile Experiences",
+    "link": "https://arxiv.org/abs/2608.13606"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+    "link": "https://arxiv.org/abs/2608.13607"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+    "link": "https://arxiv.org/abs/2608.13608"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+    "link": "https://arxiv.org/abs/2608.13612"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights",
+    "link": "https://arxiv.org/abs/2608.13617"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation",
+    "link": "https://arxiv.org/abs/2608.13614"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "A scalable edge-pass Purcell filter for high-fidelity readout of superconducting qubits",
+    "link": "https://arxiv.org/abs/2608.13627"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Heuristic Lookahead Distillation Protocol Search",
+    "link": "https://arxiv.org/abs/2608.13644"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Tracking real-space quantum state breathing through Floquet-projector geometry",
+    "link": "https://arxiv.org/abs/2608.13649"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Entanglement Negativity in Noisy Quantum Volume Sampling",
+    "link": "https://arxiv.org/abs/2608.13654"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Open system probes of renormalization group flow",
+    "link": "https://arxiv.org/abs/2608.13664"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Efficient Hamiltonian Truncation: Fast Matrix Construction and Quantum Krylov Diagonalization",
+    "link": "https://arxiv.org/abs/2608.13691"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Scalable Test of Genuine Multipartite Entanglement via Partially Randomized Measurements",
+    "link": "https://arxiv.org/abs/2608.13725"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Designing robust molecular spins for quantum technologies with theoretical chemistry",
+    "link": "https://arxiv.org/abs/2608.13744"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Certified coherent, informative, and non-entanglement-breaking fixed points of future-referential quantum feedback",
+    "link": "https://arxiv.org/abs/2608.13764"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Entanglement asymmetry characterization of the Chiral Anomaly",
+    "link": "https://arxiv.org/abs/2608.13781"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Fast classical simulation of `Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor'",
+    "link": "https://arxiv.org/abs/2608.13805"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Resource-efficient quantum eigenvalue transform with commutator scaling",
+    "link": "https://arxiv.org/abs/2608.13862"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Nonorthogonal-state erasure as the resource behind apparent second-law violations",
+    "link": "https://arxiv.org/abs/2608.13881"
+  },
+  {
+    "date": "2026-08-17T05:54:54.277579+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "de Broglie-Bohm Dynamics with Schr\\\"odinger Source Fields: A Framework for Subquantum Theory",
+    "link": "https://arxiv.org/abs/2608.13894"
   }
 ]
