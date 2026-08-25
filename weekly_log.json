@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Jamie Dimon warns UK chancellor against higher bank taxes",
-    "link": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night",
-    "link": "https://www.ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "London’s flood defence may need replacing far sooner than expected due to extreme weather",
-    "link": "https://www.ft.com/content/0a2db2ce-b89f-4d2b-a93b-794e4e422141?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "California billionaires add millions to bolster fight against wealth tax",
-    "link": "https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US considers sanctions on Brazil judge in new test of diplomatic ties",
-    "link": "https://www.ft.com/content/4bfa3d64-cf64-448d-823e-44c4577370b4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Canadian business braced for 50% US tariffs",
-    "link": "https://www.ft.com/content/d14b21c8-6a63-4593-b455-480b18792ac8?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-16T20:51:45.006790+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Rayner reforms planning to protect England’s pubs and boost housebuilding",
-    "link": "https://www.ft.com/content/d3e785fd-fbda-41d8-9c07-5275ad30fce6?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-16T23:40:43.277537+00:00",
     "topic": "International Trade",
     "source": "Financial Times - World",
@@ -5206,5 +5157,12 @@
     "source": "Ars Technica",
     "title": "Lab supply companies have been selling antibodies using manipulated images",
     "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/"
+  },
+  {
+    "date": "2026-08-25T21:01:10.710639+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "SpaceX commits $100bn to Louisiana space base",
+    "link": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1"
   }
 ]
