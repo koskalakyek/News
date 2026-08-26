@@ -1,376 +1,5 @@
 [
   {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-    "link": "https://arxiv.org/abs/2608.13564"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-    "link": "https://arxiv.org/abs/2608.13565"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-    "link": "https://arxiv.org/abs/2608.13567"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-    "link": "https://arxiv.org/abs/2608.13573"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-    "link": "https://arxiv.org/abs/2608.13574"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "AI Evaluation Should Work With Humans",
-    "link": "https://arxiv.org/abs/2608.13577"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
-    "link": "https://arxiv.org/abs/2608.13591"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-    "link": "https://arxiv.org/abs/2608.13598"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
-    "link": "https://arxiv.org/abs/2608.13604"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Active Perception for Embodied Disambiguation",
-    "link": "https://arxiv.org/abs/2608.13605"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "MobileMem: Learning from a Year of Mobile Experiences",
-    "link": "https://arxiv.org/abs/2608.13606"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
-    "link": "https://arxiv.org/abs/2608.13607"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
-    "link": "https://arxiv.org/abs/2608.13608"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
-    "link": "https://arxiv.org/abs/2608.13612"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights",
-    "link": "https://arxiv.org/abs/2608.13617"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation",
-    "link": "https://arxiv.org/abs/2608.13614"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "A scalable edge-pass Purcell filter for high-fidelity readout of superconducting qubits",
-    "link": "https://arxiv.org/abs/2608.13627"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Heuristic Lookahead Distillation Protocol Search",
-    "link": "https://arxiv.org/abs/2608.13644"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Tracking real-space quantum state breathing through Floquet-projector geometry",
-    "link": "https://arxiv.org/abs/2608.13649"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Entanglement Negativity in Noisy Quantum Volume Sampling",
-    "link": "https://arxiv.org/abs/2608.13654"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Open system probes of renormalization group flow",
-    "link": "https://arxiv.org/abs/2608.13664"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Efficient Hamiltonian Truncation: Fast Matrix Construction and Quantum Krylov Diagonalization",
-    "link": "https://arxiv.org/abs/2608.13691"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Scalable Test of Genuine Multipartite Entanglement via Partially Randomized Measurements",
-    "link": "https://arxiv.org/abs/2608.13725"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Designing robust molecular spins for quantum technologies with theoretical chemistry",
-    "link": "https://arxiv.org/abs/2608.13744"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Certified coherent, informative, and non-entanglement-breaking fixed points of future-referential quantum feedback",
-    "link": "https://arxiv.org/abs/2608.13764"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Entanglement asymmetry characterization of the Chiral Anomaly",
-    "link": "https://arxiv.org/abs/2608.13781"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Fast classical simulation of `Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor'",
-    "link": "https://arxiv.org/abs/2608.13805"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Resource-efficient quantum eigenvalue transform with commutator scaling",
-    "link": "https://arxiv.org/abs/2608.13862"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Nonorthogonal-state erasure as the resource behind apparent second-law violations",
-    "link": "https://arxiv.org/abs/2608.13881"
-  },
-  {
-    "date": "2026-08-17T05:54:54.277579+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "de Broglie-Bohm Dynamics with Schr\\\"odinger Source Fields: A Framework for Subquantum Theory",
-    "link": "https://arxiv.org/abs/2608.13894"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "China’s economy shows signs of weakness in July",
-    "link": "https://www.ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Dimon warns UK against higher bank taxes",
-    "link": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Japan’s 10-year bond yield hits three-decade high",
-    "link": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up",
-    "link": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Private credit under strain as troubled loans swell",
-    "link": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "War and climate change drive surge in global shipping costs",
-    "link": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham faces climate test over North Sea oil decision",
-    "link": "https://www.ft.com/content/cc394cdf-ef78-4ec4-ab49-775e1a292751?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The economics of Europe’s drought",
-    "link": "https://www.ft.com/content/982229c8-a116-4679-8b4b-627df069ce66?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Air conditioning becomes ‘must-have’ for overheated London office workers",
-    "link": "https://www.ft.com/content/ec594b62-1453-4044-9a0b-129ecdf86150?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "America and the politics of respect",
-    "link": "https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Why Maga came for Europe",
-    "link": "https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The Ritz-Carlton, Melbourne: luxury with altitude",
-    "link": "https://www.ft.com/content/e2f72d88-28b5-461c-b0b5-0448b6209362?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Voco Melbourne Central hotel: refill stations, rib-eye and rooftop views",
-    "link": "https://www.ft.com/content/d5dc1eef-fc71-49a6-9d65-b1a668f50aeb?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T08:09:19.259882+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "At Melbourne’s Ovolo South Yarra hotel, the volume is turned up to 11",
-    "link": "https://www.ft.com/content/37868b77-e3af-4b69-9657-734f50aaf08b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Japanese second-quarter growth weaker than expected",
-    "link": "https://www.ft.com/content/3bfdcb4f-3342-4fec-bdcf-ca92e13474da"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "People are worried about America’s solvency",
-    "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "What I read on my holidays",
-    "link": "https://www.ft.com/content/848fcc97-7f81-4d6d-89ce-cfa710d8b315?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Kushner to hold talks with Netanyahu after meeting Hamas leader",
-    "link": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham exchanged texts with person posing as Trump’s chief of staff",
-    "link": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Finance",
-    "source": "ECB - Press Releases",
-    "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "How much hydrogen awaits us underground?",
-    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "What happens when a kid’s robot best friend dies?",
-    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
-  },
-  {
-    "date": "2026-08-17T10:18:20.234181+00:00",
-    "topic": "Edge of Science",
-    "source": "Stratechery (Ben Thompson)",
-    "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-    "link": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/"
-  },
-  {
     "date": "2026-08-17T13:57:30.527694+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -5178,5 +4807,110 @@
     "source": "Ars Technica",
     "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
     "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Reform UK pledges to cut data rules and curb liabilities for non-executives",
+    "link": "https://www.ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Argentines struggle to repay debts in Milei’s painful economic overhaul",
+    "link": "https://www.ft.com/content/21080ecd-b261-4b35-994c-20d510fbf3d6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Britain needs a new way to pay for healthcare",
+    "link": "https://www.ft.com/content/27f60c74-38b8-4a76-9cdc-144ae54f45f3?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK household energy bills to hit three-year high from October",
+    "link": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules",
+    "link": "https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Hyundai bets on US hybrid boom to take on Toyota",
+    "link": "https://www.ft.com/content/557217e6-f62b-4fb6-a451-533e43ce08da?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+    "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Spain’s Ceuta crisis festers as Madrid faces allegations of failing to tackle fallout",
+    "link": "https://www.ft.com/content/53157379-e404-4798-bc86-dd76927e0497?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
+    "link": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Finance",
+    "source": "ECB - Press Releases",
+    "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Edge of Science",
+    "source": "Science (AAAS)",
+    "title": "Shingles vaccine linked to reduced heart risks",
+    "link": "https://www.science.org/content/article/shingles-vaccine-linked-reduced-heart-risks"
+  },
+  {
+    "date": "2026-08-26T10:55:17.814288+00:00",
+    "topic": "Edge of Science",
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+    "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/"
   }
 ]
