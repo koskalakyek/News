@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-08-16T23:40:43.277537+00:00",
-    "topic": "International Trade",
-    "source": "Financial Times - World",
-    "title": "China’s energy strategy vindicated by Iran war",
-    "link": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72"
-  },
-  {
-    "date": "2026-08-17T03:17:18.012396+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Olympus boss tries to beat buyout firms at their own game",
-    "link": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T03:17:18.012396+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The next China shock will come from open-source AI",
-    "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e"
-  },
-  {
-    "date": "2026-08-17T03:17:18.012396+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "India’s sweltering nights expose power crunch",
-    "link": "https://www.ft.com/content/78774f5b-058e-4731-99a2-cc2710a457e5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T03:17:18.012396+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump says US will scale back military drills with South Korea",
-    "link": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-17T05:54:54.277579+00:00",
     "topic": "Edge of Science",
     "source": "arXiv - cs.AI (هوش مصنوعی)",
@@ -5164,5 +5129,54 @@
     "source": "Financial Times",
     "title": "SpaceX commits $100bn to Louisiana space base",
     "link": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "South Korea challenges China on Arctic trade route",
+    "link": "https://www.ft.com/content/3b4c4dc2-3b26-4973-b1c3-4286bc072bb2"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump-backed candidate wins South Carolina primary",
+    "link": "https://www.ft.com/content/5bd905f6-5460-4e76-890f-20746a4c16a8?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Deloitte to pay US administration $21.5mn to settle ‘discriminatory’ practices probe",
+    "link": "https://www.ft.com/content/33304634-1594-487c-9031-5fdf7adf5652?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US audit regulator scraps investor advocate role as Trump-era revamp accelerates",
+    "link": "https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "FirstFT: China warns US it could retaliate over Iran sanctions",
+    "link": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Syria’s Kurds dissolve military force and integrate fighters with Damascus",
+    "link": "https://www.ft.com/content/0909f58d-ccfd-4da6-add2-d8b9f420b4c7?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-26T03:35:57.114327+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+    "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/"
   }
 ]
