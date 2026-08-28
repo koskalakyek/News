@@ -1,803 +1,5 @@
 [
   {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "The world’s most influential economist is oddly unconvincing",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Seoul rattled by threat to drills at heart of US-Korean alliance",
-    "link": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Labour MP suspended amid investigation into Covid loans",
-    "link": "https://www.ft.com/content/b3ad4338-21a1-42ab-86ce-4912c7df2f96?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The UK is going the wrong way about protecting pubs",
-    "link": "https://www.ft.com/content/fc94e1f6-3f22-4fb9-b4a5-682c425e4d49?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake",
-    "link": "https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Crime and punishment in the Middle East",
-    "link": "https://www.ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Russia fires economist over Ukraine war warning",
-    "link": "https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T19:18:13.341479+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "What Flock’s defenders are missing",
-    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-    "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-    "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-    "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-    "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/"
-  },
-  {
-    "date": "2026-08-17T21:01:20.831435+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-    "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/"
-  },
-  {
-    "date": "2026-08-17T22:55:20.649229+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US pauses construction of border wall through national park in Texas",
-    "link": "https://www.ft.com/content/6aafe865-0bd0-4b18-bf9e-5073fcd91c35?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T22:55:20.649229+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Trump’s eleventh-hour demand to reduce drills rattles Seoul",
-    "link": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T22:55:20.649229+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Mark Carney in last-ditch effort to avoid Trump’s latest tariffs",
-    "link": "https://www.ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-17T22:55:20.649229+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-    "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"
-  },
-  {
-    "date": "2026-08-17T22:55:20.649229+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-    "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
-  },
-  {
-    "date": "2026-08-18T03:12:02.186974+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Can Tata Sons untangle its many knots?",
-    "link": "https://www.ft.com/content/f9319eaf-7a5e-4260-9ca0-35bfe32060e1?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T03:12:02.186974+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "BHP’s copper profits outstrip iron ore for first time",
-    "link": "https://www.ft.com/content/e432e2a8-70ff-4181-9b38-b7b180d6bb34?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Mark Walter’s empire of assets and liabilities",
-    "link": "https://www.ft.com/content/ba3782d6-709b-472c-aa02-e0ffb1c89d87?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump’s cuts to South Korean drills stir doubts about US resolve in Asia",
-    "link": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK examines economic hit from loss of access to frontier AI models",
-    "link": "https://www.ft.com/content/418e0159-d2d1-4432-a7b3-de0cc446ef08?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham faces EU clash over youth scheme as summit looms",
-    "link": "https://www.ft.com/content/748b1e8c-63f4-4eca-8103-d9d148cac00c?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Top UK civil servant received record £500,000 payout after Starmer sacking",
-    "link": "https://www.ft.com/content/6913fe7f-3ad8-47e6-8310-7caba5f5d58c?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The difficult truth about Jason Arday",
-    "link": "https://www.ft.com/content/5f927594-03a1-4652-8189-2aa7a19dcec4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burger King is taking a bite out of McDonald’s lunch",
-    "link": "https://www.ft.com/content/03c8edc6-92ee-4eb9-a83a-441e839a6317?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Why eyewear stores are taking over London’s high streets",
-    "link": "https://www.ft.com/content/4fcd8647-e3ba-4cd8-8dc0-4b0ff473cf39?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump ballroom official held quiet Kremlin talks",
-    "link": "https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Can canned cocktails revive the booze business?",
-    "link": "https://www.ft.com/content/cf29e18e-c4d8-4a27-b7c7-3cf56d6eccf2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Europe still needs forward guidance — but not as a straitjacket",
-    "link": "https://www.ft.com/content/770c003e-17bc-4bf5-8f5a-3f45a4f15c36"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Libya seeks up to $40bn to develop oil resources",
-    "link": "https://www.ft.com/content/71541304-d965-415d-82a3-387775cdb773?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "EU defence executives are no longer as safe as they were",
-    "link": "https://www.ft.com/content/3ed7fb42-2402-4439-a76d-081d9c084c64"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The mansion block converts seduced by the joys of ‘lateral living’",
-    "link": "https://www.ft.com/content/975703b3-c52e-4e22-9599-027c0a9a6904"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-    "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-    "link": "https://arxiv.org/abs/2608.14550"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-    "link": "https://arxiv.org/abs/2608.14552"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-    "link": "https://arxiv.org/abs/2608.14558"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-    "link": "https://arxiv.org/abs/2608.14559"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-    "link": "https://arxiv.org/abs/2608.14562"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-    "link": "https://arxiv.org/abs/2608.14565"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-    "link": "https://arxiv.org/abs/2608.14566"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
-    "link": "https://arxiv.org/abs/2608.14567"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
-    "link": "https://arxiv.org/abs/2608.14568"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-    "link": "https://arxiv.org/abs/2608.14569"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
-    "link": "https://arxiv.org/abs/2608.14571"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
-    "link": "https://arxiv.org/abs/2608.14578"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
-    "link": "https://arxiv.org/abs/2608.14579"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
-    "link": "https://arxiv.org/abs/2608.14580"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
-    "link": "https://arxiv.org/abs/2608.14585"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Stabilizer Statistical Mechanics: A Framework for Efficient Quantification and Classification of Magic States",
-    "link": "https://arxiv.org/abs/2608.14798"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Separable Counterexamples to Complementary Quantum Correlations, and Why Random Search Missed Them",
-    "link": "https://arxiv.org/abs/2608.14806"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Multicolor nonlinear chiral quantum optics: beyond phase",
-    "link": "https://arxiv.org/abs/2608.14807"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Geometric signatures of the onset of many-body ergodicity",
-    "link": "https://arxiv.org/abs/2608.14818"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Enabling Hybrid HPCQC Workflows with a Heterogeneous Software Stack",
-    "link": "https://arxiv.org/abs/2608.14827"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Chiral Nonlinear Optics and Optical Control",
-    "link": "https://arxiv.org/abs/2608.14871"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Minimality of the Pure Qubit ZX Calculus",
-    "link": "https://arxiv.org/abs/2608.14872"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "A gauge-invariant theory of small Markovian errors in quantum gate sets",
-    "link": "https://arxiv.org/abs/2608.14891"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Floquet-Liouville Theory for Strongly Driven Open Quantum Systems",
-    "link": "https://arxiv.org/abs/2608.14966"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Qudit-ADAPT-VQE: an adaptive variational algorithm with counterdiabatic-inspired improvements for qudits",
-    "link": "https://arxiv.org/abs/2608.14981"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity",
-    "link": "https://arxiv.org/abs/2608.14995"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays",
-    "link": "https://arxiv.org/abs/2608.15033"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "An error-mitigated quantum annealing solution for the weighted Max-Cut problem on a cubic lattice",
-    "link": "https://arxiv.org/abs/2608.15094"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Stochastic Liouville-transport theory of light-atom interaction noise in thermal atomic vapors",
-    "link": "https://arxiv.org/abs/2608.15130"
-  },
-  {
-    "date": "2026-08-18T05:17:23.975755+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Exact and Efficient Circuit Construction for Block Encoding Matrix Polynomials",
-    "link": "https://arxiv.org/abs/2608.15161"
-  },
-  {
-    "date": "2026-08-18T07:59:26.393117+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK employers shed jobs as labour market weakens further",
-    "link": "https://www.ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T07:59:26.393117+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "China’s 10-year bond yield falls to 13-month low",
-    "link": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T07:59:26.393117+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "AI: like a debt machine",
-    "link": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T09:53:45.086013+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Global bond sell-off deepens amid fears over inflation and AI issuance",
-    "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T09:53:45.086013+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Labour has no good options on prisons",
-    "link": "https://www.ft.com/content/bfc3fbe6-7bd8-41d5-b185-0865cf22ae95?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T09:53:45.086013+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK pay weakness allays fears of second-round inflation effects",
-    "link": "https://www.ft.com/content/3b211986-f6ea-47f9-8b7c-b58f261ad483"
-  },
-  {
-    "date": "2026-08-18T09:53:45.086013+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "The role of the astronaut is in flux",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
-  },
-  {
-    "date": "2026-08-18T11:00:25.826930+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Russia warns UK of ‘consequences’ over Ukraine’s use of British-made drones",
-    "link": "https://www.ft.com/content/3a96c015-2c9f-4897-97ea-d3f13571aa71?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T11:00:25.826930+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
-  },
-  {
-    "date": "2026-08-18T11:00:25.826930+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-  },
-  {
-    "date": "2026-08-18T11:00:25.826930+00:00",
-    "topic": "Edge of Science",
-    "source": "Stratechery (Ben Thompson)",
-    "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-    "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/"
-  },
-  {
-    "date": "2026-08-18T11:58:50.227976+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards",
-    "link": "https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T11:58:50.227976+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "AI phobia is America’s new consensus",
-    "link": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Signature Group founder banned as company director for five years",
-    "link": "https://www.ft.com/content/f30010b5-a702-4fdd-914e-44c69d37814a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Disney sues Trump administration over ‘retaliatory’ ABC licence review",
-    "link": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Canada makes final attempt to avoid US tariffs on $20bn of goods",
-    "link": "https://www.ft.com/content/09e23587-1b06-45b3-ad19-1e5d1ec9d7de?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage",
-    "link": "https://www.ft.com/content/4e58775a-4c71-4945-895a-5dc31306ddd6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The Treasury can’t avoid the BoE’s losses",
-    "link": "https://www.ft.com/content/be40ad57-a847-43a3-8ade-9282914b965e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "The Download: how people really use AI, and Flock’s design choices",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
-  },
-  {
-    "date": "2026-08-18T14:08:36.163642+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-    "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/"
-  },
-  {
-    "date": "2026-08-18T16:02:27.820338+00:00",
-    "topic": "Edge of Science",
-    "source": "Science (AAAS)",
-    "title": "Could indigo light prevent nearsightedness in children?",
-    "link": "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children"
-  },
-  {
-    "date": "2026-08-18T16:02:27.820338+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-    "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/"
-  },
-  {
-    "date": "2026-08-18T16:02:27.820338+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "X-rays add new twist to narwhal's spiral tusk",
-    "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "The White House’s absurd claim of a Chinese transshipment “scam”",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Andy Burnham hails shake-up of bus services in West Midlands",
-    "link": "https://www.ft.com/content/a5b733dd-b369-489e-877d-6b16f6d5aa27?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Israeli strikes on Syrian air base criticised by US and Turkey",
-    "link": "https://www.ft.com/content/90c16b57-5ea6-4cce-b4d5-5f537a79da47?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Peacock raises prices by 18 percent after becoming profitable",
-    "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "The United States is about to wake up to the threat from China's space program",
-    "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-    "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/"
-  },
-  {
-    "date": "2026-08-18T18:00:00.467238+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Ford hopes this Hypercar will be its next Le Mans winner",
-    "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "Stock indices no longer reflect equity reality",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Soaring diesel prices rip across US economy",
-    "link": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Barbie box office smash isn’t yet a boon for Mattel",
-    "link": "https://www.ft.com/content/b1042a5b-23b6-49c6-a5b3-c36db59703e8?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Can Burnham save Britain’s high streets?",
-    "link": "https://www.ft.com/content/ca2a00fc-5af0-49c1-aae9-8a04c546a836?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "SEC - Press Releases",
-    "title": "SEC Charges Former Executives With Fraud in Connection With $1.9 Billion Collapse of Subprime Auto Lender Tricolor",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
-  },
-  {
-    "date": "2026-08-18T20:55:24.613554+00:00",
-    "topic": "Finance",
-    "source": "SEC - Press Releases",
-    "title": "SEC Proposes New Regulation Crypto Assets",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
-  },
-  {
-    "date": "2026-08-18T21:51:09.992013+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-    "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"
-  },
-  {
-    "date": "2026-08-18T21:51:09.992013+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-    "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/"
-  },
-  {
-    "date": "2026-08-18T21:51:09.992013+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "Meta’s blockbuster trial draws parallels to big tobacco",
-    "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "London’s clean air zone linked to improvement in children’s lung health",
-    "link": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Surge in diesel prices deals powerful blow to industrial America",
-    "link": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Mark Walter sought loan from Apollo backed by Lakers stake",
-    "link": "https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UAE suspends trade with Iran after saying it fired missiles at Gulf state",
-    "link": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham launches pandemic-style drive to cut rough sleeping",
-    "link": "https://www.ft.com/content/bd7cbd29-0d75-40c3-be6b-20915ca62161?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Ukraine’s ousted defence minister calls for wartime election",
-    "link": "https://www.ft.com/content/7bf79169-f84f-44a2-b64d-c1a3d1fb7d08?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-    "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/"
-  },
-  {
-    "date": "2026-08-18T23:50:54.517049+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
-    "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
-  },
-  {
     "date": "2026-08-19T03:14:25.927214+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -4982,5 +4184,89 @@
     "source": "Quanta Magazine",
     "title": "In Hilbert Space, All Things Are Quantumly Possible",
     "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "De-dollarisation may not be over",
+    "link": "https://www.ft.com/content/91c79aa8-12c5-49b3-b073-58c7e1aca9a7"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "France’s Le Pen seeks to woo business leaders by vowing to cut spending",
+    "link": "https://www.ft.com/content/a22e4fb3-efb0-4027-a18f-3d499eaf229b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada",
+    "link": "https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US bank regulators to narrow enforcement focus to financial risks",
+    "link": "https://www.ft.com/content/b4868658-52e2-48a4-b065-d77c82a2d6d1?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Burnham’s high street plan is ‘delusional’, says Mike Ashley",
+    "link": "https://www.ft.com/content/1123d1a4-bdb7-425f-b27c-73f1b5249939?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Alphabet agrees to pay £260mn to settle UK class action lawsuit",
+    "link": "https://www.ft.com/content/1d990ab8-bb28-43b6-b9bc-daeb8a32c58f?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Finance",
+    "source": "SEC - Press Releases",
+    "title": "SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
+    "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/"
+  },
+  {
+    "date": "2026-08-28T01:31:21.682907+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
   }
 ]
