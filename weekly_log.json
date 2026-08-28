@@ -1,33 +1,5 @@
 [
   {
-    "date": "2026-08-19T21:58:00.055775+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "The war on data centres is a bit fake",
-    "link": "https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake"
-  },
-  {
-    "date": "2026-08-19T22:57:09.468615+00:00",
-    "topic": "International Trade",
-    "source": "Financial Times - World",
-    "title": "Fed’s July minutes revealed growing concerns over elevated inflation",
-    "link": "https://www.ft.com/content/a2e60734-8b02-4474-8059-4c0cba0ff5c4"
-  },
-  {
-    "date": "2026-08-19T22:57:09.468615+00:00",
-    "topic": "International Trade",
-    "source": "Financial Times - World",
-    "title": "FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge",
-    "link": "https://www.ft.com/content/832a6431-5af9-4dd5-aa72-1d4f570527cf?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-19T22:57:09.468615+00:00",
-    "topic": "International Trade",
-    "source": "Financial Times - World",
-    "title": "Hudson River posts $11.4bn trading windfall as it seizes on market tumult",
-    "link": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-19T23:52:48.476886+00:00",
     "topic": "Edge of Science",
     "source": "Ars Technica",
@@ -3673,5 +3645,12 @@
     "source": "Stratechery (Ben Thompson)",
     "title": "2026.35: Internet Hype and Real World Change",
     "link": "https://stratechery.com/2026/internet-hype-and-real-world-change/"
+  },
+  {
+    "date": "2026-08-28T23:07:59.646500+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Guggenheim affiliate buys up debt linked to its asset management arm",
+    "link": "https://www.ft.com/content/809cbbe8-c151-448b-91fb-e74d908f73d1?syn-25a6b1a6=1"
   }
 ]
