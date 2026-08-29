@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-19T23:52:48.476886+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-    "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/"
-  },
-  {
     "date": "2026-08-20T03:13:47.393081+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3652,5 +3645,33 @@
     "source": "Financial Times",
     "title": "Guggenheim affiliate buys up debt linked to its asset management arm",
     "link": "https://www.ft.com/content/809cbbe8-c151-448b-91fb-e74d908f73d1?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-29T00:07:54.270178+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Kevin Warsh spoke – what did we learn? With Torsten Slok",
+    "link": "https://www.ft.com/content/92bf0764-b39c-4332-84dc-693c82b4525e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-29T00:07:54.270178+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+    "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
+  },
+  {
+    "date": "2026-08-29T00:07:54.270178+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Cities terminate Flock contracts at record pace in August",
+    "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+  },
+  {
+    "date": "2026-08-29T00:07:54.270178+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+    "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
   }
 ]
