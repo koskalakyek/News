@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "Tracking the cost of Donald Trump’s tariffs",
-    "link": "https://www.economist.com/interactive/trump-tariff-costs-tracker"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham hit by fiscal challenges as O’Neill declines government role",
-    "link": "https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Italy’s MPS thinks three takeovers are better than one",
-    "link": "https://www.ft.com/content/ef7a32c6-c999-407a-9970-979bf1f3b103?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US ranchers lash out at Trump’s gambit to cut beef prices",
-    "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The US techlash is real",
-    "link": "https://www.ft.com/content/105b8b46-7109-402d-84cf-2616b17bfac1?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Bessent dissent",
-    "link": "https://www.ft.com/content/3b463c96-9799-4b1c-856a-978f48b04eff"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Natalie Harp, the devoted ‘human printer’ in Trump’s entourage",
-    "link": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
-    "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T18:01:45.172984+00:00",
-    "topic": "Edge of Science",
-    "source": "Stratechery (Ben Thompson)",
-    "title": "2026.34: App Snore",
-    "link": "https://stratechery.com/2026/app-snore/"
-  },
-  {
     "date": "2026-08-21T20:55:52.722042+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2840,5 +2777,26 @@
     "source": "Financial Times",
     "title": "Niger regains control of military base after coup attempt",
     "link": "https://www.ft.com/content/4eb02822-d691-48a4-966f-45c6501bccb2?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T19:07:57.765056+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
+    "link": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T19:07:57.765056+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Return of the politicians",
+    "link": "https://www.ft.com/content/da5d96c1-c491-41a2-9db5-48bd952da4b4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T19:07:57.765056+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Why it matters that President Trump just dialed into a NASA news conference",
+    "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/"
   }
 ]
