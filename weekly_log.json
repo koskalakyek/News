@@ -1,103 +1,5 @@
 [
   {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham: To drill or not to drill?",
-    "link": "https://www.ft.com/content/08a5dde7-34ae-4165-b16f-79e2ff0d44bc?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK retail investors snap up gilts in wake of bond sell-off",
-    "link": "https://www.ft.com/content/2aaa71c8-6321-4b0f-a6c2-2971c28b5b17?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Apple paid $17bn in taxes to Ireland after court ruling on back levies",
-    "link": "https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham’s summer tour turns into a cut-price honeymoon",
-    "link": "https://www.ft.com/content/ff13d879-8dbc-419c-9c5f-ceb3bbe564c9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "The Download: threats from space mirrors and credit for AI drugs",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-    "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
-  },
-  {
-    "date": "2026-08-21T14:07:48.077128+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-    "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Apollo says hackers accessed personal data in latest Wall Street breach",
-    "link": "https://www.ft.com/content/ac3f252d-bd49-4340-8565-f27a29652759?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Uber set for €825mn Dutch fine over automating driver suspensions",
-    "link": "https://www.ft.com/content/6a068501-ec65-4061-9716-49c4124025d6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US and Canada haggle over trade deal as midnight tariffs threat looms",
-    "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The bond scare and the balance of power",
-    "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-    "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
-  },
-  {
-    "date": "2026-08-21T16:04:36.269000+00:00",
-    "topic": "Edge of Science",
-    "source": "Quanta Magazine",
-    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-    "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
-  },
-  {
     "date": "2026-08-21T18:01:45.172984+00:00",
     "topic": "Finance",
     "source": "The Economist - Finance",
@@ -2924,5 +2826,19 @@
     "source": "Financial Times",
     "title": "Controversial Venezuelan executive courts investors after Trump oil deal",
     "link": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T17:07:55.806981+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Americans feel they have lost their agency",
+    "link": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T17:07:55.806981+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Niger regains control of military base after coup attempt",
+    "link": "https://www.ft.com/content/4eb02822-d691-48a4-966f-45c6501bccb2?syn-25a6b1a6=1"
   }
 ]
