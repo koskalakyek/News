@@ -1,47 +1,5 @@
 [
   {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Iran’s president calls to end war with US from ‘position of strength’",
-    "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1"
-  },
-  {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-    "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/"
-  },
-  {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-    "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/"
-  },
-  {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-    "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/"
-  },
-  {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
-    "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/"
-  },
-  {
-    "date": "2026-08-21T20:55:52.722042+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
-    "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/"
-  },
-  {
     "date": "2026-08-21T21:56:09.975409+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2798,5 +2756,33 @@
     "source": "Ars Technica",
     "title": "Why it matters that President Trump just dialed into a NASA news conference",
     "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/"
+  },
+  {
+    "date": "2026-08-30T21:07:53.026115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US launches first strike on Iran in weeks as it hits rocket launchers",
+    "link": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T21:07:53.026115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Brexiters’ effort to resettle Chagos Islands hit by lack of proper boat",
+    "link": "https://www.ft.com/content/2da19431-104e-486b-b97e-185d2af1466a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T21:07:53.026115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
+    "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T21:07:53.026115+00:00",
+    "topic": "International Trade",
+    "source": "The Economist - Business",
+    "title": "Will anybody use AI as much as coders?",
+    "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders"
   }
 ]
