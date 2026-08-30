@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-21T08:06:01.568705+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
-    "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T08:06:01.568705+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK posts unexpected budget deficit of £1.8bn in July",
-    "link": "https://www.ft.com/content/481b3fd0-6b2d-4bbe-b6e3-b99146df827c?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T08:06:01.568705+00:00",
-    "topic": "Finance",
-    "source": "ECB - Press Releases",
-    "title": "ECB Consumer Expectations Survey results – July 2026",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html"
-  },
-  {
     "date": "2026-08-21T10:15:31.399228+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2945,5 +2924,12 @@
     "source": "Financial Times",
     "title": "CEO of India’s largest private bank to step down",
     "link": "https://www.ft.com/content/5579f0e8-c19c-46ad-8272-f7678bf3a6b9?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T09:07:49.050431+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Iceland rejects reopening talks on EU entry",
+    "link": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1"
   }
 ]
