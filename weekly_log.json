@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-08-20T20:00:38.436130+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
-    "link": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-20T20:00:38.436130+00:00",
-    "topic": "Finance",
-    "source": "Federal Reserve - Press Releases",
-    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
-  },
-  {
-    "date": "2026-08-20T20:00:38.436130+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Roblox must make changes after failing to block adults creeping on kids",
-    "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
-  },
-  {
-    "date": "2026-08-20T21:58:49.987204+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors",
-    "link": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-20T21:58:49.987204+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Tory peer’s free speech group urged Vance to lobby UK government",
-    "link": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-20T21:58:49.987204+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Guggenheim loan trades in distressed territory after investor call",
-    "link": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-20T21:58:49.987204+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "Yuval Noah Harari on the economic and political perils of AI",
-    "link": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai"
-  },
-  {
     "date": "2026-08-21T03:32:01.569882+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3155,5 +3106,12 @@
     "source": "Financial Times",
     "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
     "link": "https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T01:07:52.568967+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Oil deal with US is denounced by both sides of Venezuelan politics",
+    "link": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1"
   }
 ]
