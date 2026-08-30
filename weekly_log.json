@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-    "link": "https://www.ft.com/content/de7fad8f-f5a5-4233-819a-492511a1d3c8?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FTAV Q&A: Darrell Duffie",
-    "link": "https://www.ft.com/content/17a27f16-8c0b-4f21-a348-512bb787994d"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Samsung to return record $80bn to shareholders",
-    "link": "https://www.ft.com/content/d434a48b-4b6c-4071-bf16-da16a6b95bda?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The Liberal Democrats’ problem is not unique",
-    "link": "https://www.ft.com/content/7f9274b0-bef6-4dbc-954f-54f8b0cd6464?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "Mother tongue",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "When AI designs a drug, who gets the credit?",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
-  },
-  {
-    "date": "2026-08-21T10:15:31.399228+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
-  },
-  {
-    "date": "2026-08-21T11:57:57.280982+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Dèy by Edwidge Danticat — a family under fire",
-    "link": "https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee"
-  },
-  {
-    "date": "2026-08-21T11:57:57.280982+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Food inflation adds pressure for Bank of Japan to act",
-    "link": "https://www.ft.com/content/f1a1ea48-f7d3-4582-9a03-25d884741623"
-  },
-  {
     "date": "2026-08-21T14:07:48.077128+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2938,5 +2875,47 @@
     "source": "Financial Times",
     "title": "Nepal rescue effort intensifies as death toll passes 700",
     "link": "https://www.ft.com/content/32978145-d33e-4ee3-957b-39fcc722d2be?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Friends with fiscal benefits",
+    "link": "https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Will the Fed’s hawkish stance survive contact with jobs data?",
+    "link": "https://www.ft.com/content/c2682d2b-c5a4-4f98-8f04-cf93883fb9b6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Burnham tightens prisoner release scheme and insists he is ‘tough on crime’",
+    "link": "https://www.ft.com/content/3dd189e1-1af6-45a5-8993-0973af74f8e4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "‘New York loves Canada’: US cities want their Canadian tourists back",
+    "link": "https://www.ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Pharma stocks soar as investors seek AI alternatives",
+    "link": "https://www.ft.com/content/2c65a745-8169-4192-971a-022bdfc0e7ad?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-30T12:08:28.453153+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
   }
 ]
