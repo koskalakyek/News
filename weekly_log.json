@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-22T03:10:05.261102+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "China’s robots rock, box and mix drinks. Can they outperform humans?",
-    "link": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-22T03:10:05.261102+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Pentagon fires military newspaper staffers for insubordination",
-    "link": "https://www.ft.com/content/8b6b2021-bde2-4255-91a3-9c8dd44ffd51?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-22T03:10:05.261102+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Trump's space transportation policy calls for new spaceport on federal land",
-    "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
-  },
-  {
     "date": "2026-08-22T09:03:10.441779+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2777,5 +2756,222 @@
     "source": "Financial Times",
     "title": "Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela",
     "link": "https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Taliban makes overtures to Trump administration over mineral deals",
+    "link": "https://www.ft.com/content/92cc40a7-3047-46d6-86f5-aa5f59f1d0ac?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+    "link": "https://arxiv.org/abs/2608.27459"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+    "link": "https://arxiv.org/abs/2608.27463"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+    "link": "https://arxiv.org/abs/2608.27464"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+    "link": "https://arxiv.org/abs/2608.27471"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+    "link": "https://arxiv.org/abs/2608.27472"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+    "link": "https://arxiv.org/abs/2608.27475"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+    "link": "https://arxiv.org/abs/2608.27476"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+    "link": "https://arxiv.org/abs/2608.27477"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
+    "link": "https://arxiv.org/abs/2608.27480"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
+    "link": "https://arxiv.org/abs/2608.27482"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+    "link": "https://arxiv.org/abs/2608.27484"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
+    "link": "https://arxiv.org/abs/2608.27506"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2608.27508"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
+    "link": "https://arxiv.org/abs/2608.27524"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
+    "link": "https://arxiv.org/abs/2608.27548"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum Information at Infinity",
+    "link": "https://arxiv.org/abs/2608.27498"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantized Low-Rank Quantum State Tomography: Hyperbolic Quantization and Riemannian Least-Squares Recovery",
+    "link": "https://arxiv.org/abs/2608.27503"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Reverse Quantum Mechanics",
+    "link": "https://arxiv.org/abs/2608.27543"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Pulling strings in real time: flux tube dynamics in (2+1)-d $\\mathbb{Z}_2$-Higgs Gauge Theories",
+    "link": "https://arxiv.org/abs/2608.27561"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Spectral Theory of Semisimple Bivariate Bicycle Codes",
+    "link": "https://arxiv.org/abs/2608.27565"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models",
+    "link": "https://arxiv.org/abs/2608.27568"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum Resource Estimation for Simulating the SYK Model with Trotterization, qDRIFT, and Asymmetric Qubitization",
+    "link": "https://arxiv.org/abs/2608.27573"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Diamond optomechanical crystals for high-frequency strain and comb generation",
+    "link": "https://arxiv.org/abs/2608.27581"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Network steering with arbitrarily low detection efficiency of any entangled measurement",
+    "link": "https://arxiv.org/abs/2608.27582"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract",
+    "link": "https://arxiv.org/abs/2608.27592"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum SEDONet: Spectrally-Embedded Quantum Deep Operator Networks for Partial Differential Equations",
+    "link": "https://arxiv.org/abs/2608.27626"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Machine Learning-Based Characterisation of the Non-Markovian Dynamics of a Nitrogen-Vacancy Centre",
+    "link": "https://arxiv.org/abs/2608.27632"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Topological Winding Readout of an Emergent Page-Wootters Clock",
+    "link": "https://arxiv.org/abs/2608.27650"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "High-Dimensional Deterministic Secure Quantum Communication with Reed-Solomon Erasure Coding",
+    "link": "https://arxiv.org/abs/2608.27679"
+  },
+  {
+    "date": "2026-08-31T04:07:46.948490+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes",
+    "link": "https://arxiv.org/abs/2608.27682"
   }
 ]
