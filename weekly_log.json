@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-22T10:54:23.759010+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
-    "link": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-22T13:44:33.754110+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3015,5 +3008,26 @@
     "source": "Stratechery (Ben Thompson)",
     "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
     "link": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/"
+  },
+  {
+    "date": "2026-08-31T11:07:35.440436+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "KKR to net giant windfall from $17bn sale of USI to Aon",
+    "link": "https://www.ft.com/content/23125dd8-2d09-4c6a-8e55-3245741fba45?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T11:07:35.440436+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK offers homegrown AI start-ups £100mn to improve public services",
+    "link": "https://www.ft.com/content/5a10fc78-9a3e-4f12-81e3-dc843b529948?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T11:07:35.440436+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The missing piece in the US oil and gas boom: jobs",
+    "link": "https://www.ft.com/content/f060d145-3c1f-4a91-9ed8-ccc364df9c63?syn-25a6b1a6=1"
   }
 ]
