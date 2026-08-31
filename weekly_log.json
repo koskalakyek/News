@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-22T13:44:33.754110+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
-    "link": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-22T13:44:33.754110+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Putting mice into hibernation causes a major loss of synapses",
-    "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
-  },
-  {
-    "date": "2026-08-22T13:44:33.754110+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-    "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/"
-  },
-  {
     "date": "2026-08-22T15:48:57.590222+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3071,5 +3050,19 @@
     "source": "Financial Times",
     "title": "ChatGPT faces tougher rules under EU online safety regime",
     "link": "https://www.ft.com/content/6af706a3-6e63-46c2-926b-85461a355e9b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T14:07:59.345145+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump says US will hit Iran ‘hard’ as conflict reignites",
+    "link": "https://www.ft.com/content/8b09b3fc-bb61-4d9f-aac6-bcef9883fa16?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T14:07:59.345145+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "India’s GDP beats growth forecast at 7.8%",
+    "link": "https://www.ft.com/content/88447c72-5510-4847-9908-cf630acfcc1f?syn-25a6b1a6=1"
   }
 ]
