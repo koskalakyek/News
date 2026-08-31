@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-22T17:50:28.869472+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Mark Carney says Canada is now ‘at war’ with US over trade",
-    "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-22T20:54:30.066723+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3092,5 +3085,68 @@
     "source": "Financial Times",
     "title": "Trump’s tariff fix leaves US trade policy in permanent flux",
     "link": "https://www.ft.com/content/46bf442d-175b-4347-8ef6-e3d80ae6ea63"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "The Economist - Finance",
+    "title": "The extraordinary rise of a city’s economy",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-a-citys-economy"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump says data centre critics ‘want to end up backwards and poor’",
+    "link": "https://www.ft.com/content/744c448c-858e-4398-85dc-a66cecd02abb?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Lionel Messi announces retirement from international football",
+    "link": "https://www.ft.com/content/4b2b79ad-f909-489b-a8d7-01a126f64bae?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Prediction platform Kalshi bans ex-US Congress member for manipulation",
+    "link": "https://www.ft.com/content/eddde22c-aa99-468d-9fb0-36f3edd6e04f?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Israel’s de facto annexation of the West Bank",
+    "link": "https://www.ft.com/content/96691b37-1360-4f32-b267-ec8fc3a05370?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Don’t write off Russia’s defence industry yet",
+    "link": "https://www.ft.com/content/369558d0-357c-41e7-aa1e-dc1c1c07457d"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Edge of Science",
+    "source": "Science (AAAS)",
+    "title": "Will Meta’s settlement in social media addiction case be a boon for research?",
+    "link": "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research"
+  },
+  {
+    "date": "2026-08-31T18:08:06.832115+00:00",
+    "topic": "Edge of Science",
+    "source": "IEEE Spectrum",
+    "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
+    "link": "https://spectrum.ieee.org/ham-radio-2677797793"
   }
 ]
