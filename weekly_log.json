@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-22T15:48:57.590222+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "‘Appeasement is not a strategy’: how media is fighting back against Trump’s legal threats",
-    "link": "https://www.ft.com/content/ccd02363-0e4d-4fca-8bd1-46a153d19aee?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-22T17:50:28.869472+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3092,5 +3085,12 @@
     "source": "Ars Technica",
     "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
     "link": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/"
+  },
+  {
+    "date": "2026-08-31T16:07:34.628003+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump’s tariff fix leaves US trade policy in permanent flux",
+    "link": "https://www.ft.com/content/46bf442d-175b-4347-8ef6-e3d80ae6ea63"
   }
 ]
