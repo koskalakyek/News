@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-22T20:54:30.066723+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
-    "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2"
-  },
-  {
     "date": "2026-08-23T09:02:47.576773+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3190,5 +3183,75 @@
     "source": "Quanta Magazine",
     "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
     "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Elliott builds stake in French industrial gas group Air Liquide",
+    "link": "https://www.ft.com/content/3d30f551-53af-4fab-8271-3f7fd75d5cfd?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Swiss lawmakers call for softer banking regulation in victory for UBS",
+    "link": "https://www.ft.com/content/1bdafff4-3e78-4099-be47-755e6b643408?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Finance",
+    "source": "SEC - Press Releases",
+    "title": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+    "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+    "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+    "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Think twice before installing this device promising free movies",
+    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
+    "link": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/"
+  },
+  {
+    "date": "2026-08-31T21:07:53.053253+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+    "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/"
   }
 ]
