@@ -1,33 +1,5 @@
 [
   {
-    "date": "2026-08-23T13:46:40.875730+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Zelenskyy rejects election call from fired defence minister",
-    "link": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35"
-  },
-  {
-    "date": "2026-08-23T13:46:40.875730+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Government can bring robotics to life",
-    "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T13:46:40.875730+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
-    "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T13:46:40.875730+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Volcanoes that made history",
-    "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/"
-  },
-  {
     "date": "2026-08-23T14:56:05.107738+00:00",
     "topic": "Finance",
     "source": "The Economist - Finance",
@@ -3610,5 +3582,33 @@
     "source": "The Economist - Business",
     "title": "Teamwork doesn’t make the machines work",
     "link": "https://www.economist.com/business/2026/09/01/teamwork-doesnt-make-the-machines-work"
+  },
+  {
+    "date": "2026-09-01T14:14:32.631933+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump touts data centre build-out despite voter backlash",
+    "link": "https://www.ft.com/content/1ddd0d4a-34bc-4919-a6fb-68dc514b84e9?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-01T14:14:32.631933+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump summons US refiners as Iran war pushes up fuel prices",
+    "link": "https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-01T14:14:32.631933+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+  },
+  {
+    "date": "2026-09-01T14:14:32.631933+00:00",
+    "topic": "International Trade",
+    "source": "The Economist - Business",
+    "title": "Bartleby newsletter: Teamwork doesn’t make the machines work",
+    "link": "https://www.economist.com/business/2026/09/01/bartleby-newsletter-teamwork-doesnt-make-the-machines-work"
   }
 ]
