@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-23T14:56:05.107738+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted"
-  },
-  {
-    "date": "2026-08-23T14:56:05.107738+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Healey’s first Budget is a chance for radical change",
-    "link": "https://www.ft.com/content/524004a3-d0b4-4ffd-a00d-9aa74cd734c2"
-  },
-  {
-    "date": "2026-08-23T14:56:05.107738+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "China is training up thousands of humanoid robots",
-    "link": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots"
-  },
-  {
     "date": "2026-08-23T15:51:41.523626+00:00",
     "topic": "Edge of Science",
     "source": "Ars Technica",
@@ -3610,5 +3589,19 @@
     "source": "The Economist - Business",
     "title": "Bartleby newsletter: Teamwork doesn’t make the machines work",
     "link": "https://www.economist.com/business/2026/09/01/bartleby-newsletter-teamwork-doesnt-make-the-machines-work"
+  },
+  {
+    "date": "2026-09-01T15:14:59.071962+00:00",
+    "topic": "Finance",
+    "source": "SEC - Press Releases",
+    "title": "SEC Proposes to Modernize Rules for Registered Transfer Agents",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+  },
+  {
+    "date": "2026-09-01T15:14:59.071962+00:00",
+    "topic": "Edge of Science",
+    "source": "Science (AAAS)",
+    "title": "World’s biggest dark matter detector spots a single weird particle",
+    "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle"
   }
 ]
