@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-08-23T19:02:39.458078+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
-    "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T19:02:39.458078+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Yahoo, the internet’s ‘OG’, wants to win over Gen Z",
-    "link": "https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T19:02:39.458078+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Why every French politician is now a Gaullist",
-    "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd"
-  },
-  {
-    "date": "2026-08-23T19:02:39.458078+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump accused of risking more pain for Americans with Canada trade war",
-    "link": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T19:02:39.458078+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "A week of keynote speeches",
-    "link": "https://www.ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-23T22:52:49.323635+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3694,5 +3659,40 @@
     "source": "IEEE Spectrum",
     "title": "IEEE President’s Note: Technology for Social Good",
     "link": "https://spectrum.ieee.org/president-ieee-note-september-2026"
+  },
+  {
+    "date": "2026-09-01T19:12:55.168013+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+  },
+  {
+    "date": "2026-09-01T19:12:55.168013+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+    "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/"
+  },
+  {
+    "date": "2026-09-01T19:12:55.168013+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+    "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/"
+  },
+  {
+    "date": "2026-09-01T19:12:55.168013+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+    "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/"
+  },
+  {
+    "date": "2026-09-01T19:12:55.168013+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "This is what a supercar was like a century ago",
+    "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/"
   }
 ]
