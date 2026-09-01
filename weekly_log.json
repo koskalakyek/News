@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-08-23T10:55:23.405847+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Occidental tries to free itself from the messy legacy of Anadarko deal",
-    "link": "https://www.ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T10:55:23.405847+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham to allow English mayors to ‘call in’ big local planning decisions",
-    "link": "https://www.ft.com/content/8ac695be-2803-4e91-84b3-9cffe2e6d0e3?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-23T10:55:23.405847+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
-    "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-23T13:46:40.875730+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3519,5 +3498,40 @@
     "source": "MIT Technology Review",
     "title": "How engineered microbes could help feed the world’s crops",
     "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+  },
+  {
+    "date": "2026-09-01T11:13:43.791413+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Rise in UK borrowing costs adds to pressure on Burnham and Healey",
+    "link": "https://www.ft.com/content/4002eb81-07c0-47d0-a076-a6f6331667b2?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-01T11:13:43.791413+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Ukraine eases tensions with Poland over second world war exhumations",
+    "link": "https://www.ft.com/content/630c7af3-dab3-47c0-ada3-fd8ed7b75a32?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-01T11:13:43.791413+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Inflation and interest rates tracker: see how your country compares",
+    "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-01T11:13:43.791413+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "When is an engineer not an engineer?",
+    "link": "https://www.ft.com/content/009a59d1-d797-490c-bbd7-32c95b8acd90"
+  },
+  {
+    "date": "2026-09-01T11:13:43.791413+00:00",
+    "topic": "Edge of Science",
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+    "link": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/"
   }
 ]
