@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-08-24T21:05:28.645776+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "GM vehicles under federal scrutiny after hundreds of reports",
-    "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/"
-  },
-  {
-    "date": "2026-08-24T21:05:28.645776+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-    "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/"
-  },
-  {
     "date": "2026-08-24T22:58:40.814200+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3764,5 +3750,26 @@
     "source": "Ars Technica",
     "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
     "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
+  },
+  {
+    "date": "2026-09-02T22:14:45.932446+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "JPMorgan curbed lending to Jane Street as trading firm muscled into bonds",
+    "link": "https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T22:14:45.932446+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Burnham seeks to protect UK farming and steel in EU reset talks",
+    "link": "https://www.ft.com/content/606e5f9d-44b5-4b45-9ecc-59dd8a66fb5a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T22:14:45.932446+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Google spared break-up of online advertising monopoly",
+    "link": "https://www.ft.com/content/75c3179a-5c42-42fd-94e9-6f0c3dfc0c70?syn-25a6b1a6=1"
   }
 ]
