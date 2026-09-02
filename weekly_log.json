@@ -3764,5 +3764,33 @@
     "source": "MIT Technology Review",
     "title": "The Download: AI puzzles and a path to our nearest star system",
     "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
+  },
+  {
+    "date": "2026-09-02T13:14:52.530928+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Uber to cut 10% of its global workforce",
+    "link": "https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T13:14:52.530928+00:00",
+    "topic": "Edge of Science",
+    "source": "IEEE Spectrum",
+    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+    "link": "https://spectrum.ieee.org/ai-engineer-skills"
+  },
+  {
+    "date": "2026-09-02T13:14:52.530928+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/"
+  },
+  {
+    "date": "2026-09-02T13:14:52.530928+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/"
   }
 ]
