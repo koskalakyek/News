@@ -1,33 +1,5 @@
 [
   {
-    "date": "2026-08-24T03:33:52.051064+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Shein seeks $27bn valuation from Hong Kong IPO",
-    "link": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T03:33:52.051064+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Treasury brings in expert to review business rates for UK pubs and hotels",
-    "link": "https://www.ft.com/content/a70fda49-a76a-45bc-add7-221f7fc307db?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T03:33:52.051064+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham to pledge support for long-range missile construction in Ukraine",
-    "link": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T03:33:52.051064+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Scottish state bank records £138mn loss on back of failed investments",
-    "link": "https://www.ft.com/content/9f72dc1b-bb4b-4672-8197-73b899a2bc5d?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-24T05:59:20.432792+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3785,5 +3757,215 @@
     "source": "Financial Times",
     "title": "Nepal’s rapper-turned-PM faces Himalaya flood test",
     "link": "https://www.ft.com/content/248d64df-0167-4816-a67a-d4f9577190d8?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "link": "https://arxiv.org/abs/2609.00002"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+    "link": "https://arxiv.org/abs/2609.00003"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+    "link": "https://arxiv.org/abs/2609.00004"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+    "link": "https://arxiv.org/abs/2609.00005"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "link": "https://arxiv.org/abs/2609.00012"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+    "link": "https://arxiv.org/abs/2609.00015"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+    "link": "https://arxiv.org/abs/2609.00018"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "UI-Venus-2 Technical Report",
+    "link": "https://arxiv.org/abs/2609.00028"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+    "link": "https://arxiv.org/abs/2609.00032"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+    "link": "https://arxiv.org/abs/2609.00071"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+    "link": "https://arxiv.org/abs/2609.00073"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+    "link": "https://arxiv.org/abs/2609.00076"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+    "link": "https://arxiv.org/abs/2609.00100"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+    "link": "https://arxiv.org/abs/2609.00106"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Recursive Criticality of AI Self-Improvement",
+    "link": "https://arxiv.org/abs/2609.00137"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Isospectral potentials with Dirac delta interaction: Constrained Spectra",
+    "link": "https://arxiv.org/abs/2609.00056"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Encoding Compact U(1) Gauge Fields in Bosonic Modes with GKP Stabilization",
+    "link": "https://arxiv.org/abs/2609.00167"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Entangling capability of coherently controlled quantum processes",
+    "link": "https://arxiv.org/abs/2609.00168"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Exact learning of quantum noise with tensor networks",
+    "link": "https://arxiv.org/abs/2609.00169"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum Secret Sharing with a Helper and Programmable Access Structures",
+    "link": "https://arxiv.org/abs/2609.00220"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Codes for Quantum Secret Sharing with a Helper",
+    "link": "https://arxiv.org/abs/2609.00234"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Optimization Landscape Geometry in VQE for Frustrated Quantum Spin Models",
+    "link": "https://arxiv.org/abs/2609.00235"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Which Otto Engine Is the Fastest?",
+    "link": "https://arxiv.org/abs/2609.00321"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Generation of multicomponent Schr\\\"odinger cat states in schemes with measurement of Gaussian states",
+    "link": "https://arxiv.org/abs/2609.00343"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Spatial correlations of photons interacting via transverse Rydberg blockade",
+    "link": "https://arxiv.org/abs/2609.00348"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Towards unsupervised representation learning for quantum data: quantum models with inference and generation",
+    "link": "https://arxiv.org/abs/2609.00372"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Fractal dimension predicts quantum kernel collapse in angle-encoded data",
+    "link": "https://arxiv.org/abs/2609.00475"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Imaginarity witnessing enhancement via spectral norms of witnesses",
+    "link": "https://arxiv.org/abs/2609.00534"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Parametric amplification of continuous-variable entangled state for loss-tolerant quantum distributed sensing",
+    "link": "https://arxiv.org/abs/2609.00671"
+  },
+  {
+    "date": "2026-09-02T04:16:01.343158+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "The Fermionic Cohomology Problem on the Full Fock Space Is $\\mathrm{QMA}_1$-Complete",
+    "link": "https://arxiv.org/abs/2609.00694"
   }
 ]
