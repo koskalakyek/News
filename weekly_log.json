@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump says US to increase tariffs on Canadian cars to 50%",
-    "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs",
-    "link": "https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "How Shein’s IPO lost its shine",
-    "link": "https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Reform UK’s ‘Farage Fest’ went ahead without permission from council",
-    "link": "https://www.ft.com/content/21190130-bb8e-460e-b64c-ef1532f6c673?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Class wars and the midterms",
-    "link": "https://www.ft.com/content/f16e4ad3-d61f-4b98-b427-c5bcb1df1972?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
-    "link": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "High asset prices, not low interest rates, are driving inflation",
-    "link": "https://www.ft.com/content/7a9f5756-bf18-4a42-80d1-653c955447aa?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Revisiting the Lockerbie bombing, 37 years later",
-    "link": "https://www.ft.com/content/895d08d0-5cb9-45f4-9a90-cbfdd164a0dd"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "How to encourage smarter AI use in the classroom",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "What It Takes to Be an Adaptable Engineer",
-    "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "Building Technology People Can Trust",
-    "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "Edge of Science",
-    "source": "Quanta Magazine",
-    "title": "A New Framework for How the Brain Compresses Our Noisy World",
-    "link": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
-  },
-  {
-    "date": "2026-08-24T15:21:24.100193+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "How Shein came crashing down",
-    "link": "https://www.economist.com/business/2026/08/24/how-shein-came-crashing-down"
-  },
-  {
-    "date": "2026-08-24T17:47:45.219710+00:00",
-    "topic": "Edge of Science",
-    "source": "Science (AAAS)",
-    "title": "China abruptly delays mission to probe Moon’s hidden water",
-    "link": "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water"
-  },
-  {
     "date": "2026-08-24T19:44:32.529629+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3834,5 +3722,82 @@
     "source": "Financial Times - World",
     "title": "Burnham seeks to reassure bond markets amid public spending fears",
     "link": "https://www.ft.com/content/55ea0ee5-d067-4fc0-81cb-82293e9285de?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The wrong way to revive Venezuela’s economy",
+    "link": "https://www.ft.com/content/1fef1e44-2a79-4057-89e5-33417e5a7763?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "How refugee camps become mini-economies",
+    "link": "https://www.ft.com/content/cb2b4c47-489d-43d0-8f51-a3e7baaff22e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "California opines on who profits from wildfires but not on who pays",
+    "link": "https://www.ft.com/content/5040d26d-520c-455f-a1e8-111d011acdb6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The Restore Britain backer who once gave money to the Lib Dems",
+    "link": "https://www.ft.com/content/3d2590e0-b166-494e-ab6b-e6c20c75c59e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Students and opposition activists targeted with spyware in Serbia",
+    "link": "https://www.ft.com/content/c9c3a0ef-98d5-4aeb-9d20-e6250d6fcf99?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK mortgage borrowers urged to lock in deals before rates rise",
+    "link": "https://www.ft.com/content/9fa4fcb7-14f0-4461-87aa-4fbdf1fe64f4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Tory attempts to repeal the UK Climate Act are tin-eared",
+    "link": "https://www.ft.com/content/5b8f840e-f47c-452a-a99b-a79044ddf7c7"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Zelenskyy issues reprimand after security agencies’ Kyiv shootout",
+    "link": "https://www.ft.com/content/bbb04f65-7cdd-4ba2-8f82-96158ff40d63?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Finance",
+    "source": "Money Stuff (Matt Levine)",
+    "title": "The ETF Dividend Flip",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-09-02/the-etf-dividend-flip"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Edge of Science",
+    "source": "IEEE Spectrum",
+    "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+    "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone"
+  },
+  {
+    "date": "2026-09-02T18:17:59.898484+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+    "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/"
   }
 ]
