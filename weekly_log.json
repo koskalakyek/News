@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-08-24T08:30:09.480296+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Thames Water creditors plan board shake-up if utility avoids nationalisation",
-    "link": "https://www.ft.com/content/f160c7b8-d322-4b5f-b5c9-f6861c62e3db?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T08:30:09.480296+00:00",
-    "topic": "Finance",
-    "source": "ECB - Press Releases",
-    "title": "Piero Cipollone: Interview with ilsussidiario.net",
-    "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html"
-  },
-  {
     "date": "2026-08-24T12:00:39.534256+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3771,5 +3757,33 @@
     "source": "Financial Times",
     "title": "European gas prices hit three-year high",
     "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T10:16:09.921003+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Ukraine tells airlines to stop using Russian airspace",
+    "link": "https://www.ft.com/content/806ed56b-f5b2-4ae4-8164-231ccaebdd21?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T10:16:09.921003+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "How worried should Labour be about holding Keir Starmer’s seat?",
+    "link": "https://www.ft.com/content/980bd114-fb96-479c-ac30-41435a9f78d0?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T10:16:09.921003+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "China’s Xi visits Egypt in rare foreign travel flurry ahead of Trump summit",
+    "link": "https://www.ft.com/content/69671716-02bb-496c-88ad-10befe4a9d63?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-02T10:16:09.921003+00:00",
+    "topic": "Edge of Science",
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Fable 5.1, Enterprise Frontier Safeguards",
+    "link": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/"
   }
 ]
