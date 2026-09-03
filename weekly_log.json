@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Boss of Trump Jr-backed start-up donated to Republicans after winning US contract",
-    "link": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Waymo picks Munich for first EU robotaxi launch",
-    "link": "https://www.ft.com/content/21ef2743-2cc2-41ef-8329-84adce69d975?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Can Trump’s ‘economic D-day’ force Iran to capitulate?",
-    "link": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Scott Bessent fires warning shot at Iran’s economic partners",
-    "link": "https://www.ft.com/content/b7a62337-c0f8-41f2-b4d4-7afbe6d63af1?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Store water and tinned food to prepare for emergencies, UK citizens to be told",
-    "link": "https://www.ft.com/content/5811d9e6-f48d-43ac-bc05-c273287a27d0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Germany on track for strongest GDP growth since 2022",
-    "link": "https://www.ft.com/content/6b396499-d71d-4e8f-b2a4-66318b1d9426?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
-    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Edge of Science",
-    "source": "IEEE Spectrum",
-    "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-    "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot"
-  },
-  {
-    "date": "2026-08-25T15:28:26.567364+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Apple's new desktop computers are designed specifically for local AI development",
-    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
-  },
-  {
     "date": "2026-08-25T17:45:39.740989+00:00",
     "topic": "Finance",
     "source": "The Economist - Finance",
@@ -3946,5 +3876,33 @@
     "source": "Financial Times",
     "title": "Blackstone stands firm with cap on private credit outflows",
     "link": "https://www.ft.com/content/41017d78-2d1c-4a41-9dee-c9237179d616?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T16:15:51.950399+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Burnham raises concerns with Macron over ‘Made in Europe’ scheme",
+    "link": "https://www.ft.com/content/278167ea-e88d-4cf5-b49c-6b043719f429?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T16:15:51.950399+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Revolut wins provisional US banking licence",
+    "link": "https://www.ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T16:15:51.950399+00:00",
+    "topic": "Finance",
+    "source": "SEC - Press Releases",
+    "title": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
+  },
+  {
+    "date": "2026-09-03T16:15:51.950399+00:00",
+    "topic": "Edge of Science",
+    "source": "Science (AAAS)",
+    "title": "New ‘connectome’ shows all 124 million contact points in the fruit fly’s nervous system",
+    "link": "https://www.science.org/content/article/new-connectome-shows-all-124-million-contact-points-fruit-fly-s-nervous-system"
   }
 ]
