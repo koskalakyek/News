@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "The Economist - Finance",
-    "title": "What makes a great investor?",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Imran Khan may not survive Pakistan prison, son says",
-    "link": "https://www.ft.com/content/940ed0e8-f746-418c-b6f6-98f62d010007?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-    "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "America’s economic war on Iran has a China problem",
-    "link": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Iran and Oman edge towards deal on Strait of Hormuz",
-    "link": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Will Iceland join the EU?",
-    "link": "https://www.ft.com/content/1e50ca97-b54d-4686-aee6-4edecc8ce1f7"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "How First Brands’ billion-dollar rescue hit the skids",
-    "link": "https://www.ft.com/content/d290366c-160e-419e-8685-668cd1fcabfb?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Iranian tankers gather off Sri Lankan coast",
-    "link": "https://www.ft.com/content/ef62e345-2a76-46b4-8a69-9d02a306126b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Foot Locker owner plunges after warning nervous consumers are cutting spending",
-    "link": "https://www.ft.com/content/1b066355-4412-43bd-b832-74956d3c0a52?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The drip-drip US debt crisis",
-    "link": "https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Sizewell C nuclear project suffers setback after road building delayed",
-    "link": "https://www.ft.com/content/7a83b577-8d67-4435-9798-1e53d7fad4e9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "‘Embarrassing’: US officials recoil from Trump’s Canada attacks",
-    "link": "https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Edge of Science",
-    "source": "Science (AAAS)",
-    "title": "To predict tree death, scientists tapped gamma rays to peer underground",
-    "link": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-    "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/"
-  },
-  {
-    "date": "2026-08-25T17:45:39.740989+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
-  },
-  {
     "date": "2026-08-25T19:46:37.920228+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3904,5 +3799,61 @@
     "source": "Science (AAAS)",
     "title": "New ‘connectome’ shows all 124 million contact points in the fruit fly’s nervous system",
     "link": "https://www.science.org/content/article/new-connectome-shows-all-124-million-contact-points-fruit-fly-s-nervous-system"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Reform UK woos bond investors as markets shake UK political debate",
+    "link": "https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Nvidia’s $13bn deal cements its $5.5tn advantage",
+    "link": "https://www.ft.com/content/89d4575d-c0ca-4ac9-ba2c-5e6016244055?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UAE billionaire’s son revealed as buyer of £190mn London mansion",
+    "link": "https://www.ft.com/content/6d084723-4938-44be-970e-77358d86e96b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Hugging Face attack is a wake-up call about the risks of AI",
+    "link": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Tory plan to fund defence risks rise in homelessness, say charities",
+    "link": "https://www.ft.com/content/dc2f9b7f-6d14-4b15-8ce9-fe2cc86d81f6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Giorgia Meloni’s enviable stability — and missed opportunity",
+    "link": "https://www.ft.com/content/29f6cc60-3a46-4d64-af65-d0506cbe2f6b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Meet the 2026 Ig Nobel Prize winners",
+    "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/"
+  },
+  {
+    "date": "2026-09-03T18:17:09.863709+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
   }
 ]
