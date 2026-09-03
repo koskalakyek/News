@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-25T08:11:26.407326+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Nvidia employee charged with smuggling advanced chips into China",
-    "link": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-25T10:17:24.082298+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3729,5 +3722,12 @@
     "source": "Financial Times",
     "title": "Ireland strives for EU budget breakthrough as December deadline looms",
     "link": "https://www.ft.com/content/70ca0dbc-e9b4-487b-be08-ab7a01c43696?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T08:16:33.120028+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Elliott builds stake in Deutsche Telekom and opposes T-Mobile US merger",
+    "link": "https://www.ft.com/content/16034441-608c-42de-90ff-1a2b7607fc79?syn-25a6b1a6=1"
   }
 ]
