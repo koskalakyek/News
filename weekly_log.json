@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-08-24T23:53:01.642670+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-    "link": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T23:53:01.642670+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US Supreme Court allows Trump restrictions on mail-in ballots",
-    "link": "https://www.ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T23:53:01.642670+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Shein targets $27bn valuation in Hong Kong IPO",
-    "link": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T23:53:01.642670+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Morgan Stanley and Schroders back Australia’s largest venture capital round",
-    "link": "https://www.ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-24T23:53:01.642670+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "Americans should rekindle their love for big business",
-    "link": "https://www.economist.com/business/2026/08/24/americans-should-rekindle-their-love-for-big-business"
-  },
-  {
     "date": "2026-08-25T03:16:19.821231+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3771,5 +3736,12 @@
     "source": "Financial Times - World",
     "title": "FirstFT: Xi Jinping visits Egypt in rare foreign travel tour",
     "link": "https://www.ft.com/content/9d4cffdc-4d8b-4a8b-98be-42e17200b122?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T00:23:36.299807+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Steve Ballmer banned by NBA over improper payment to basketball star",
+    "link": "https://www.ft.com/content/6b74303c-0190-4e86-8a7b-feaf3dd29658?syn-25a6b1a6=1"
   }
 ]
