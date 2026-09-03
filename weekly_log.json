@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-25T21:01:10.710639+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "SpaceX commits $100bn to Louisiana space base",
-    "link": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1"
-  },
-  {
     "date": "2026-08-26T03:35:57.114327+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -3848,5 +3841,26 @@
     "source": "Ars Technica",
     "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
     "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/"
+  },
+  {
+    "date": "2026-09-03T21:14:17.118747+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US charges ICE agent with lying about shooting of Venezuelan immigrant",
+    "link": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T21:14:17.118747+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Microsoft challenges data centre costs after pledging to protect ratepayers",
+    "link": "https://www.ft.com/content/f86672dd-5ee5-46f6-8419-3c959814dd1c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-03T21:14:17.118747+00:00",
+    "topic": "Finance",
+    "source": "SEC - Press Releases",
+    "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
   }
 ]
