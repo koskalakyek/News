@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-08-26T12:02:08.187032+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-    "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/"
-  },
-  {
-    "date": "2026-08-26T12:02:08.187032+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-    "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/"
-  },
-  {
     "date": "2026-08-26T16:38:14.956718+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -4212,5 +4198,19 @@
     "source": "Financial Times - World",
     "title": "US diesel prices soar to record high",
     "link": "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-04T12:19:01.426679+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Former Afghan president Hamid Karzai: ‘We need a country for everyone’",
+    "link": "https://www.ft.com/content/723a3a36-3797-4c54-bddf-074d088a10d6?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-04T12:19:01.426679+00:00",
+    "topic": "Edge of Science",
+    "source": "MIT Technology Review",
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
   }
 ]
