@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Reform UK pledges to cut data rules and curb liabilities for non-executives",
-    "link": "https://www.ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Argentines struggle to repay debts in Milei’s painful economic overhaul",
-    "link": "https://www.ft.com/content/21080ecd-b261-4b35-994c-20d510fbf3d6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Britain needs a new way to pay for healthcare",
-    "link": "https://www.ft.com/content/27f60c74-38b8-4a76-9cdc-144ae54f45f3?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "UK household energy bills to hit three-year high from October",
-    "link": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Liquidators can pursue PwC globally over Chinese property giant’s collapse, court rules",
-    "link": "https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Hyundai bets on US hybrid boom to take on Toyota",
-    "link": "https://www.ft.com/content/557217e6-f62b-4fb6-a451-533e43ce08da?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
-    "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Spain’s Ceuta crisis festers as Madrid faces allegations of failing to tackle fallout",
-    "link": "https://www.ft.com/content/53157379-e404-4798-bc86-dd76927e0497?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
-    "link": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Finance",
-    "source": "ECB - Press Releases",
-    "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Edge of Science",
-    "source": "Science (AAAS)",
-    "title": "Shingles vaccine linked to reduced heart risks",
-    "link": "https://www.science.org/content/article/shingles-vaccine-linked-reduced-heart-risks"
-  },
-  {
-    "date": "2026-08-26T10:55:17.814288+00:00",
-    "topic": "Edge of Science",
-    "source": "Stratechery (Ben Thompson)",
-    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-    "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/"
-  },
-  {
     "date": "2026-08-26T12:02:08.187032+00:00",
     "topic": "Edge of Science",
     "source": "Ars Technica",
@@ -4282,5 +4177,40 @@
     "source": "Stratechery (Ben Thompson)",
     "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
     "link": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/"
+  },
+  {
+    "date": "2026-09-04T11:14:01.945490+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "EQT strikes $2bn deal for insurance broker McGill",
+    "link": "https://www.ft.com/content/29655cf5-bf44-4e99-8f26-208f4c44af84?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-04T11:14:01.945490+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK set to approve Jackdaw gasfield within weeks",
+    "link": "https://www.ft.com/content/27f62928-927e-4ac3-94e1-4f25310b6ae4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-04T11:14:01.945490+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Farage to address Reform conference after donor sting",
+    "link": "https://www.ft.com/content/e252a325-8ee2-43d1-b2f5-002732210395"
+  },
+  {
+    "date": "2026-09-04T11:14:01.945490+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Chicago: the ultimate insider addresses",
+    "link": "https://www.ft.com/content/630b8e10-38e0-400a-a4b5-1f92ca89ee99"
+  },
+  {
+    "date": "2026-09-04T11:14:01.945490+00:00",
+    "topic": "International Trade",
+    "source": "Financial Times - World",
+    "title": "US diesel prices soar to record high",
+    "link": "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1"
   }
 ]
