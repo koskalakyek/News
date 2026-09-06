@@ -1,89 +1,5 @@
 [
   {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "De-dollarisation may not be over",
-    "link": "https://www.ft.com/content/91c79aa8-12c5-49b3-b073-58c7e1aca9a7"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "France’s Le Pen seeks to woo business leaders by vowing to cut spending",
-    "link": "https://www.ft.com/content/a22e4fb3-efb0-4027-a18f-3d499eaf229b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada",
-    "link": "https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US bank regulators to narrow enforcement focus to financial risks",
-    "link": "https://www.ft.com/content/b4868658-52e2-48a4-b065-d77c82a2d6d1?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham’s high street plan is ‘delusional’, says Mike Ashley",
-    "link": "https://www.ft.com/content/1123d1a4-bdb7-425f-b27c-73f1b5249939?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Alphabet agrees to pay £260mn to settle UK class action lawsuit",
-    "link": "https://www.ft.com/content/1d990ab8-bb28-43b6-b9bc-daeb8a32c58f?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Finance",
-    "source": "SEC - Press Releases",
-    "title": "SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "A startup claims it’s found a drug to make your blood young",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
-    "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/"
-  },
-  {
-    "date": "2026-08-28T01:31:21.682907+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-  },
-  {
     "date": "2026-08-28T21:55:15.630881+00:00",
     "topic": "Finance",
     "source": "The Economist - Finance",
@@ -4576,5 +4492,12 @@
     "source": "Financial Times",
     "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
     "link": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-06T03:14:08.473647+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Iran war rebuild boosts world’s biggest air cargo handler",
+    "link": "https://www.ft.com/content/a8207f0e-9e1c-4d41-a3e0-a96587bad3a6?syn-25a6b1a6=1"
   }
 ]
