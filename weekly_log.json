@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "date": "2026-09-13T18:39:47.242938+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Le Pen vows to put French citizens first in campaign launch",
+    "link": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-13T18:39:47.242938+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Donald Trump rejects calls from tech bosses for an AI slowdown",
+    "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-13T18:39:47.242938+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules",
+    "link": "https://www.ft.com/content/182365c4-a0ac-4670-97e0-22e88d3bc02d?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-09-13T18:39:47.242938+00:00",
+    "topic": "International Trade",
+    "source": "The Economist - Business",
+    "title": "How an oil-supply crisis could bring about an investment boom",
+    "link": "https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom"
+  }
+]
