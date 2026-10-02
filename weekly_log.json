@@ -1,320 +1,5 @@
 [
   {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Oil price on track for longest losing streak in more than 12 months",
-    "link": "https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Meloni at spending crossroads after failing to get off EU’s fiscal naughty step",
-    "link": "https://www.ft.com/content/61f49a3d-ffac-4f09-b946-bfc1f9194e89?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: Boehly gets US and Gulf backing for Lukoil assets bid",
-    "link": "https://www.ft.com/content/d85c9ab3-9b77-4b96-9321-c548bbbfd07a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "A more hawkish ECB will respond to prolonged high energy prices",
-    "link": "https://www.ft.com/content/c557b92a-48bc-4d82-8fdb-f45cdc96ed77"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "South Korea bets on Texas gas plant to satisfy Trump",
-    "link": "https://www.ft.com/content/7a977d6f-fdbc-425a-8881-7c43716c77f5?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Has Trump caged his China hawks?",
-    "link": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Global banks warn UK windfall tax will trigger shift away from London",
-    "link": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Private equity has a new kind of SaaS: swimming as a service",
-    "link": "https://www.ft.com/content/f6962aaf-417f-4722-8316-0a0049af55aa?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Biotech is one area where the US can afford to let China flourish",
-    "link": "https://www.ft.com/content/0c7eac88-bc13-42be-aa18-f78ec1483ca6?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The battle between the Fed and Trump",
-    "link": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Diesel surge costs European drivers €203mn per day",
-    "link": "https://www.ft.com/content/76b51a19-0387-4eed-a343-980b1135de2c?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
-    "link": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Todd Boehly’s oil deal from Russia with love",
-    "link": "https://www.ft.com/content/39845ea2-0738-4549-94f0-b0f6b212e6b2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "On the rise: Edinburgh’s hot bakery scene",
-    "link": "https://www.ft.com/content/33c88371-1925-4b63-b0ba-26b974386418?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Rivals Revolut and Nubank go head to head in bid to crack US banking market",
-    "link": "https://www.ft.com/content/7ec7e4e7-94ed-4627-9040-18867ccdaa53?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
-    "link": "https://arxiv.org/abs/2609.25010"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-    "link": "https://arxiv.org/abs/2609.25013"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
-    "link": "https://arxiv.org/abs/2609.25036"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
-    "link": "https://arxiv.org/abs/2609.25088"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
-    "link": "https://arxiv.org/abs/2609.25165"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-    "link": "https://arxiv.org/abs/2609.25187"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
-    "link": "https://arxiv.org/abs/2609.25199"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
-    "link": "https://arxiv.org/abs/2609.25254"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification",
-    "link": "https://arxiv.org/abs/2609.25272"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
-    "link": "https://arxiv.org/abs/2609.25284"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Attention as a Routing Graph: Live Circuit Extraction from a Single Forward Pass",
-    "link": "https://arxiv.org/abs/2609.25285"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
-    "link": "https://arxiv.org/abs/2609.25286"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Making Agents More Consistent: Skills Should Form Habits for Repeat Tasks",
-    "link": "https://arxiv.org/abs/2609.25299"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing",
-    "link": "https://arxiv.org/abs/2609.25303"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Clarification Is Not Correction: LLMs Fail to Let Go",
-    "link": "https://arxiv.org/abs/2609.25337"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Encrypted Redundancy as a Diagnostic Resource: Relational Diagnosis in Quantum Encrypted Cloning",
-    "link": "https://arxiv.org/abs/2609.25043"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "End-to-End Quantum Semantic Communication with Variational Quantum Neural Networks",
-    "link": "https://arxiv.org/abs/2609.25044"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "A non-robust quantum correlation self-test",
-    "link": "https://arxiv.org/abs/2609.25117"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Pulsed coherent and squeezed driving of a spin-$S$ emitter as a deterministic source of Wigner-negative light",
-    "link": "https://arxiv.org/abs/2609.25135"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Probing quantum spin liquids with multiple quantum coherences",
-    "link": "https://arxiv.org/abs/2609.25193"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Measurement-Induced Phase Transitions and Logical-Space Localization in Floquet Monitored Clifford Circuits",
-    "link": "https://arxiv.org/abs/2609.25201"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Adaptive thresholding for scalable measurement-based qubit reset",
-    "link": "https://arxiv.org/abs/2609.25208"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Thermodynamic Proof of Quantumness without Structure",
-    "link": "https://arxiv.org/abs/2609.25211"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Nonlocal advantage of quantum coherence in tau-lepton pairs from electron--positron collisions",
-    "link": "https://arxiv.org/abs/2609.25214"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Localized Decoherence as a Constructive Tool: An Optical Simulation of Matter-Wave Interference",
-    "link": "https://arxiv.org/abs/2609.25227"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Strong coupling of a reconfigurable ${}^{171}$Yb atom array to a tunable telecom-band nanofiber cavity",
-    "link": "https://arxiv.org/abs/2609.25232"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "A dual-region ytterbium tweezer apparatus with an in-vacuum nanofiber cavity",
-    "link": "https://arxiv.org/abs/2609.25245"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Operator Score Matching for Learning Quantum Hamiltonians",
-    "link": "https://arxiv.org/abs/2609.25246"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "In-orbit operation of a programmable quantum photonic processor",
-    "link": "https://arxiv.org/abs/2609.25248"
-  },
-  {
-    "date": "2026-09-23T05:42:27.440237+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Exploring Asymmetric QEC Code Concatenation",
-    "link": "https://arxiv.org/abs/2609.25251"
-  },
-  {
     "date": "2026-09-26T07:20:15.822277+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -1237,5 +922,320 @@
     "source": "Ars Technica",
     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
     "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK watchdog signals it may block major broadband deal",
+    "link": "https://www.ft.com/content/e46df108-025d-4326-9774-010ab84f2c9b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
+    "link": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Pro-Russian parties jostle with Kyiv supporters in crowded Latvian election",
+    "link": "https://www.ft.com/content/71a2ec5f-3f28-4462-af96-bab58c86a777?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "FirstFT: Putin has told military to abandon rules of war, Zelenskyy says",
+    "link": "https://www.ft.com/content/56b239fb-3c85-4b8e-a274-d028d3b153a0?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "‘The only answer is to show up’: Black voters rally against redrawn electoral maps",
+    "link": "https://www.ft.com/content/83e9a7cb-95b4-48a8-9cdc-88d3fa8f03c0?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK universities comb records for China links after MI5 warning",
+    "link": "https://www.ft.com/content/b33a6f40-71fe-430d-a130-25f5f841aeb9?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Monzo courts private equity after Nubank walks away",
+    "link": "https://www.ft.com/content/57de6604-70a9-413a-a381-9ba82ec202ec?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Amazon seeks to offload $8bn of Nvidia chips to investors",
+    "link": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "French schools burn as student unrest spreads",
+    "link": "https://www.ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Paramount picked a bad time to fund a $110bn leveraged buyout",
+    "link": "https://www.ft.com/content/1b5ddda2-ac55-4d66-8bf4-bce62b80450d?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Zack Polanski’s ‘perilous’ moment",
+    "link": "https://www.ft.com/content/249abfea-3275-40d0-ab98-306b225cbc02?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Quant hedge funds reap big gains from global bond sell-off",
+    "link": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "A cathedral for plants: Edinburgh’s newly restored Palm Houses",
+    "link": "https://www.ft.com/content/39879593-7dd5-447f-bacd-8e691b050f53?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK ministers resist union demands to rescue Scottish steelmaker",
+    "link": "https://www.ft.com/content/232eac57-80af-4b06-ac48-7346c3df669d?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump’s short-sighted diesel gamble",
+    "link": "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "link": "https://arxiv.org/abs/2610.00010"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "link": "https://arxiv.org/abs/2610.00012"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+    "link": "https://arxiv.org/abs/2610.00015"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+    "link": "https://arxiv.org/abs/2610.00018"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+    "link": "https://arxiv.org/abs/2610.00025"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+    "link": "https://arxiv.org/abs/2610.00047"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+    "link": "https://arxiv.org/abs/2610.00061"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+    "link": "https://arxiv.org/abs/2610.00074"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+    "link": "https://arxiv.org/abs/2610.00084"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+    "link": "https://arxiv.org/abs/2610.00197"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+    "link": "https://arxiv.org/abs/2610.00212"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+    "link": "https://arxiv.org/abs/2610.00224"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+    "link": "https://arxiv.org/abs/2610.00233"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
+    "link": "https://arxiv.org/abs/2610.00234"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+    "link": "https://arxiv.org/abs/2610.00282"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Beyond Lie Algebras: Lie-Wedge Stratification and Pure-State Stabilizability in Single-Channel Qubit Control",
+    "link": "https://arxiv.org/abs/2610.00046"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Sharp Target-Domain Certificates for Quantum-Kernel Advantage under Distribution Shift",
+    "link": "https://arxiv.org/abs/2610.00080"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Exact Posterior Prediction from Product Haar Measurements and a Randomized-Mesh Maximum-Likelihood Bridge",
+    "link": "https://arxiv.org/abs/2610.00117"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Global and nonlocal magic of quantum many-body scars",
+    "link": "https://arxiv.org/abs/2610.00129"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Stellar rank under the contraction of SU(1,1) to the Heisenberg-Weyl group",
+    "link": "https://arxiv.org/abs/2610.00133"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Symmetry Discovery in Quantum Learning: Observable-Level and Task-Level Inference from Finite Measurements",
+    "link": "https://arxiv.org/abs/2610.00157"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Projector Form of the Quantum Brachistochrone and Its Relation to Two-Boundary Quantum Algorithm Design",
+    "link": "https://arxiv.org/abs/2610.00169"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Entanglement cost of quantum depolarization",
+    "link": "https://arxiv.org/abs/2610.00187"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Simultaneous Perturbation as a Spectral Filter",
+    "link": "https://arxiv.org/abs/2610.00201"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Minimax Quantum State Tomography with Periodic Clifford Measurements",
+    "link": "https://arxiv.org/abs/2610.00210"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Physical-Work Fluctuation Relations from Accessible Quantum Macrostates",
+    "link": "https://arxiv.org/abs/2610.00246"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Exact replica-sector hierarchy of multi-resolvent correlations in random free fermions",
+    "link": "https://arxiv.org/abs/2610.00261"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Exact Critical Curve for Uniform Stabilizer-State Identification",
+    "link": "https://arxiv.org/abs/2610.00266"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "A Frame-Spread Lower Bound for Quantum Entropy Estimation under Fixed Rank-One Measurements",
+    "link": "https://arxiv.org/abs/2610.00270"
+  },
+  {
+    "date": "2026-10-02T08:12:17.364954+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Frame dependence of Kochen-Specker contextuality for relativistic spin systems",
+    "link": "https://arxiv.org/abs/2610.00274"
   }
 ]
