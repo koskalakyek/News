@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-10-04T21:04:51.788224+00:00",
+    "topic": "Finance",
+    "source": "The Economist - Finance",
+    "title": "The world is facing an almighty LNG crunch",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch"
+  },
+  {
+    "date": "2026-10-04T21:04:51.788224+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Dealmaking slowdown threatens early end to M&A boom",
+    "link": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-04T21:04:51.788224+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Election season starts with possibly the most contentious result",
+    "link": "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
+  }
+]
