@@ -1475,5 +1475,313 @@
     "source": "Ars Technica",
     "title": "Feds get ready to rewrite car headlight rules",
     "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Labour holds off Greens’ Polanski to win London by-election",
+    "link": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "EU capitals caught between markets and metrics as debt fears rise",
+    "link": "https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
+    "link": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+    "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Nobel laureate Machado says Venezuela is ‘ready’ for new elections",
+    "link": "https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "A Starbucks-Chipotle merger offers the wrong kind of synergy",
+    "link": "https://www.ft.com/content/4dabb3fd-70fd-46f1-9773-f38411ecb162?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Raising capital gains tax would be ‘so stupid’, says Jim O’Neill",
+    "link": "https://www.ft.com/content/6cc1fe34-7235-424c-a80a-407fe9c13612?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Five ways to tell if market trouble lies ahead",
+    "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The energy crisis is changing what investors want from oil majors",
+    "link": "https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "University students will have to meet minimum entry standards to access loans",
+    "link": "https://www.ft.com/content/e7b87569-f660-4c96-8313-5af5b2bcb86a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Some much-needed American optimism on Europe",
+    "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Starbucks’ new era of financial engineering?",
+    "link": "https://www.ft.com/content/e8b65126-4bb3-4a54-9027-8f121892b8c1?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+    "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Why bank stocks are falling despite surging interest rates",
+    "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+    "link": "https://arxiv.org/abs/2610.10541"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "link": "https://arxiv.org/abs/2610.10549"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+    "link": "https://arxiv.org/abs/2610.10590"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+    "link": "https://arxiv.org/abs/2610.10611"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+    "link": "https://arxiv.org/abs/2610.10629"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+    "link": "https://arxiv.org/abs/2610.10635"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+    "link": "https://arxiv.org/abs/2610.10786"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+    "link": "https://arxiv.org/abs/2610.10805"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+    "link": "https://arxiv.org/abs/2610.10833"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+    "link": "https://arxiv.org/abs/2610.10857"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+    "link": "https://arxiv.org/abs/2610.10906"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+    "link": "https://arxiv.org/abs/2610.10942"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Learning How to Search for Plans with Exponentially Less Space",
+    "link": "https://arxiv.org/abs/2610.10954"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+    "link": "https://arxiv.org/abs/2610.11005"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
+    "link": "https://arxiv.org/abs/2610.11007"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum non-Markovian response spectra",
+    "link": "https://arxiv.org/abs/2610.10684"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "On linearity or non-linearity in machine learning for quantum chaotic dynamics",
+    "link": "https://arxiv.org/abs/2610.10697"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Combining Error Verification and Privacy Amplification in Quantum Key Distribution",
+    "link": "https://arxiv.org/abs/2610.10702"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum Networking at the Speed of Quantum Computation: Kilohertz Entanglement in a Heterogeneous Quantum System",
+    "link": "https://arxiv.org/abs/2610.10705"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum jumps of sound",
+    "link": "https://arxiv.org/abs/2610.10714"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Nonlinear Feedback in Josephson Circuit Optimization: Application to a Kerr-Reversal JTWPA",
+    "link": "https://arxiv.org/abs/2610.10715"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Single-shot magic state factories for quantum LDPC codes",
+    "link": "https://arxiv.org/abs/2610.10731"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum-Enhanced Inference of Conditional Future Probabilities with Reduced Memory Cost",
+    "link": "https://arxiv.org/abs/2610.10756"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Engineering Quantum Interactions: From Effective Models to Validated Physical Predictions",
+    "link": "https://arxiv.org/abs/2610.10763"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Scaling Quantum Optimization to the Thousand-Qubit Scale with Distributed Quantum Sampling",
+    "link": "https://arxiv.org/abs/2610.10772"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Coherence-assisted quantum state preparation and thermal control through repeated interactions",
+    "link": "https://arxiv.org/abs/2610.10794"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Susceptibility of qudit-qudit entanglement to quantum noise: insights from the negativity rank",
+    "link": "https://arxiv.org/abs/2610.10820"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Uncertainty Quantification for Quantum Fidelity Estimation",
+    "link": "https://arxiv.org/abs/2610.10885"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Helicity decoupling ultrastrong Rabi splitting from quantum vacuum dressing",
+    "link": "https://arxiv.org/abs/2610.10944"
+  },
+  {
+    "date": "2026-10-09T08:43:07.112483+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures",
+    "link": "https://arxiv.org/abs/2610.10948"
   }
 ]
