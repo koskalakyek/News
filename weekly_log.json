@@ -1,383 +1,5 @@
 [
   {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Mental health and ADHD diagnosis can cause harm, says official review",
-    "link": "https://www.ft.com/content/fa7d4016-a914-4f68-97bd-82081cbde886?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US telcos stocks tumble after SpaceX announces spectrum acquisition",
-    "link": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US to publicly execute former soldier by firing squad",
-    "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Amex fined $350mn for failing to flag suspected money laundering",
-    "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Burnham set to launch crackdown on non-compete clauses",
-    "link": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Edge of Science",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-    "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-    "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
-  },
-  {
-    "date": "2026-10-09T01:52:05.953397+00:00",
-    "topic": "Edge of Science",
-    "source": "Ars Technica",
-    "title": "Feds get ready to rewrite car headlight rules",
-    "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Labour holds off Greens’ Polanski to win London by-election",
-    "link": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "EU capitals caught between markets and metrics as debt fears rise",
-    "link": "https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
-    "link": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
-    "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Nobel laureate Machado says Venezuela is ‘ready’ for new elections",
-    "link": "https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "A Starbucks-Chipotle merger offers the wrong kind of synergy",
-    "link": "https://www.ft.com/content/4dabb3fd-70fd-46f1-9773-f38411ecb162?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Raising capital gains tax would be ‘so stupid’, says Jim O’Neill",
-    "link": "https://www.ft.com/content/6cc1fe34-7235-424c-a80a-407fe9c13612?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Five ways to tell if market trouble lies ahead",
-    "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "The energy crisis is changing what investors want from oil majors",
-    "link": "https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "University students will have to meet minimum entry standards to access loans",
-    "link": "https://www.ft.com/content/e7b87569-f660-4c96-8313-5af5b2bcb86a?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Some much-needed American optimism on Europe",
-    "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Starbucks’ new era of financial engineering?",
-    "link": "https://www.ft.com/content/e8b65126-4bb3-4a54-9027-8f121892b8c1?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
-    "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Why bank stocks are falling despite surging interest rates",
-    "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "link": "https://arxiv.org/abs/2610.10541"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "link": "https://arxiv.org/abs/2610.10549"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-    "link": "https://arxiv.org/abs/2610.10590"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-    "link": "https://arxiv.org/abs/2610.10611"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-    "link": "https://arxiv.org/abs/2610.10629"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-    "link": "https://arxiv.org/abs/2610.10635"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-    "link": "https://arxiv.org/abs/2610.10786"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-    "link": "https://arxiv.org/abs/2610.10805"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-    "link": "https://arxiv.org/abs/2610.10833"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-    "link": "https://arxiv.org/abs/2610.10857"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-    "link": "https://arxiv.org/abs/2610.10906"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
-    "link": "https://arxiv.org/abs/2610.10942"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Learning How to Search for Plans with Exponentially Less Space",
-    "link": "https://arxiv.org/abs/2610.10954"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
-    "link": "https://arxiv.org/abs/2610.11005"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - cs.AI (هوش مصنوعی)",
-    "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
-    "link": "https://arxiv.org/abs/2610.11007"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Quantum non-Markovian response spectra",
-    "link": "https://arxiv.org/abs/2610.10684"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "On linearity or non-linearity in machine learning for quantum chaotic dynamics",
-    "link": "https://arxiv.org/abs/2610.10697"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Combining Error Verification and Privacy Amplification in Quantum Key Distribution",
-    "link": "https://arxiv.org/abs/2610.10702"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Quantum Networking at the Speed of Quantum Computation: Kilohertz Entanglement in a Heterogeneous Quantum System",
-    "link": "https://arxiv.org/abs/2610.10705"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Quantum jumps of sound",
-    "link": "https://arxiv.org/abs/2610.10714"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Nonlinear Feedback in Josephson Circuit Optimization: Application to a Kerr-Reversal JTWPA",
-    "link": "https://arxiv.org/abs/2610.10715"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Single-shot magic state factories for quantum LDPC codes",
-    "link": "https://arxiv.org/abs/2610.10731"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Quantum-Enhanced Inference of Conditional Future Probabilities with Reduced Memory Cost",
-    "link": "https://arxiv.org/abs/2610.10756"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Engineering Quantum Interactions: From Effective Models to Validated Physical Predictions",
-    "link": "https://arxiv.org/abs/2610.10763"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Scaling Quantum Optimization to the Thousand-Qubit Scale with Distributed Quantum Sampling",
-    "link": "https://arxiv.org/abs/2610.10772"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Coherence-assisted quantum state preparation and thermal control through repeated interactions",
-    "link": "https://arxiv.org/abs/2610.10794"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Susceptibility of qudit-qudit entanglement to quantum noise: insights from the negativity rank",
-    "link": "https://arxiv.org/abs/2610.10820"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Uncertainty Quantification for Quantum Fidelity Estimation",
-    "link": "https://arxiv.org/abs/2610.10885"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Helicity decoupling ultrastrong Rabi splitting from quantum vacuum dressing",
-    "link": "https://arxiv.org/abs/2610.10944"
-  },
-  {
-    "date": "2026-10-09T08:43:07.112483+00:00",
-    "topic": "Edge of Science",
-    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
-    "title": "Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures",
-    "link": "https://arxiv.org/abs/2610.10948"
-  },
-  {
     "date": "2026-10-09T15:58:31.104763+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -1363,5 +985,89 @@
     "source": "Financial Times",
     "title": "White House chaos overshadows Trump’s midterms push",
     "link": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "France reels after ‘unprecedented’ violent riots",
+    "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Treasury introduces new security measures in bid to stop UK Budget leaks",
+    "link": "https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Egypt’s Sisi sets out plan for military to train his successors",
+    "link": "https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "St Petersburg endures biggest Ukrainian drone attack",
+    "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Several dead and injured in fire at Alberta military base",
+    "link": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
+    "link": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Saudi helicopter crash kills two troops near Yemen border",
+    "link": "https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Not every billionaire is a policy failure",
+    "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Will Meta’s earnings restore confidence in the AI boom?",
+    "link": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Could Republicans prove the pollsters wrong in the midterms?",
+    "link": "https://www.ft.com/content/b2299174-fb78-4edf-a358-8cae837f8d7b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump’s losing battle with green energy",
+    "link": "https://www.ft.com/content/b263bbe1-cd0c-4508-9ec8-07cb8a9c2a02?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T14:22:52.894527+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
+    "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1"
   }
 ]
