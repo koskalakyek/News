@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-10-18T20:21:28.765372+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump to begin transforming historic golf course despite court order",
+    "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T20:21:28.765372+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US army chief in Asia calls for show of enhanced military muscle",
+    "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-18T20:21:28.765372+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole",
+    "link": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138"
+  }
+]
