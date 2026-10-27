@@ -1,47 +1,5 @@
 [
   {
-    "date": "2026-10-18T20:21:28.765372+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Trump to begin transforming historic golf course despite court order",
-    "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-18T20:21:28.765372+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US army chief in Asia calls for show of enhanced military muscle",
-    "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-18T20:21:28.765372+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole",
-    "link": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138"
-  },
-  {
-    "date": "2026-10-18T22:53:41.403922+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Evercore appoints co-presidents for the first time in leadership reshuffle",
-    "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-18T22:53:41.403922+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "Macron faces political firestorm after riots",
-    "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1"
-  },
-  {
-    "date": "2026-10-18T22:53:41.403922+00:00",
-    "topic": "International Trade",
-    "source": "The Economist - Business",
-    "title": "The AI industry’s gigantic debts are making investors nervous",
-    "link": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous"
-  },
-  {
     "date": "2026-10-19T00:57:50.149839+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2777,5 +2735,173 @@
     "source": "arXiv - quant-ph (فیزیک کوانتوم)",
     "title": "Semiclassical dynamics of higher-order squeezing: self-adjoint extensions and coherent returns",
     "link": "https://arxiv.org/abs/2610.33378"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "The Economist - Finance",
+    "title": "In an AI blow-up, would insurance pay out?",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
+    "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+    "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Healey to reverse cuts to cash Isa allowances",
+    "link": "https://www.ft.com/content/619978f5-4400-4bf0-8b1f-4cf62bee9774?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "FirstFT: Israeli exit polls show no clear winner in parliamentary election",
+    "link": "https://www.ft.com/content/fadbee3f-16cd-4892-a41f-7d6682b77e4d?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Washington to issue Flávio Bolsonaro US visa after election loss",
+    "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Israel election turnout highest in decades",
+    "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+    "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Putin lectures Nordic leaders on Russian history",
+    "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK government quietly axes more than two dozen new road schemes",
+    "link": "https://www.ft.com/content/92780ba3-5201-4002-abca-3ee1a053eb30?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Britain is trying to cut its deficit quickly — can it do it mainly through tax rises?",
+    "link": "https://www.ft.com/content/f116a855-61cc-4e36-9f9b-c2ff168b6605?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Boeing shares slump as planemaker cuts 737 jet delivery target",
+    "link": "https://www.ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Australia’s drive to transform economy with data centres, aerospace — and meat pies",
+    "link": "https://www.ft.com/content/49bb03a5-e9f5-45bf-8c2c-b02d3fcfa712?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+    "link": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Finance",
+    "source": "Money Stuff (Matt Levine)",
+    "title": "Musk’s Mars Merger Pay",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-10-27/musk-s-mars-merger-pay"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+    "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+    "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+    "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+  },
+  {
+    "date": "2026-10-27T23:41:05.786766+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Warner Bros. drops final trailer for Dune: Part Three",
+    "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
   }
 ]
