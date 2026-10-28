@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-19T00:57:50.149839+00:00",
-    "topic": "Finance",
-    "source": "Financial Times",
-    "title": "US rate rises are being amplified in global markets",
-    "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748"
-  },
-  {
     "date": "2026-10-19T05:59:56.584757+00:00",
     "topic": "Finance",
     "source": "Financial Times",
@@ -2903,5 +2896,145 @@
     "source": "Ars Technica",
     "title": "Warner Bros. drops final trailer for Dune: Part Three",
     "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Shares of Ambani’s Jio rise 21% in India’s biggest IPO",
+    "link": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "China rushes to shore up struggling markets",
+    "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "South Korean ‘tilt’ towards Russia alarms European allies",
+    "link": "https://www.ft.com/content/91f45684-1e10-4aa1-b1d5-019fc41ff1c5"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+    "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Sizewell nuclear plant is ‘terrible deal’ for British taxpayers, MPs conclude",
+    "link": "https://www.ft.com/content/bc330ee4-f151-4552-88a8-8879a26d8fdd?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Counting the Bandages: On measuring the time that AI saves",
+    "link": "https://arxiv.org/abs/2610.35942"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+    "link": "https://arxiv.org/abs/2610.35984"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "link": "https://arxiv.org/abs/2610.36077"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+    "link": "https://arxiv.org/abs/2610.36100"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+    "link": "https://arxiv.org/abs/2610.36116"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+    "link": "https://arxiv.org/abs/2610.36146"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+    "link": "https://arxiv.org/abs/2610.36169"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+    "link": "https://arxiv.org/abs/2610.36183"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+    "link": "https://arxiv.org/abs/2610.36188"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+    "link": "https://arxiv.org/abs/2610.36234"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
+    "link": "https://arxiv.org/abs/2610.36239"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
+    "link": "https://arxiv.org/abs/2610.36287"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+    "link": "https://arxiv.org/abs/2610.36298"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+    "link": "https://arxiv.org/abs/2610.36308"
+  },
+  {
+    "date": "2026-10-28T04:54:54.798859+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+    "link": "https://arxiv.org/abs/2610.36325"
   }
 ]
