@@ -33,5 +33,313 @@
     "source": "Ars Technica",
     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
     "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Five EU countries to announce scheme to deport irregular migrants to Rwanda",
+    "link": "https://www.ft.com/content/ce4e5b88-f7f6-4aaa-aa29-aed46b99f065?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "FirstFT: Jensen Huang in talks with allies for Nvidia comeback",
+    "link": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Brussels to propose €45bn Ukraine loan borrowed against EU budget",
+    "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Climate ministers start final week of talks deeply divided over age-old issues",
+    "link": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Milburn to call for £1bn tax break for businesses to boost youth employment",
+    "link": "https://www.ft.com/content/224b468c-59b2-42b4-8f34-7de9610b7a91?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI",
+    "link": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "UK companies line up to replace Palantir in NHS contract",
+    "link": "https://www.ft.com/content/f69f1f6b-cdbe-40d6-b76d-fb712ca58b51?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+    "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The whole world is long America",
+    "link": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The ultra-Orthodox rabbis who could decide Netanyahu’s future",
+    "link": "https://www.ft.com/content/31e009bb-8861-4e2a-8f5e-daacd8a855f5?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "‘White elephant’ Brexit border checkpoints face demolition as UK-EU reset looms",
+    "link": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "US manufacturing is back and better",
+    "link": "https://www.ft.com/content/ed1a39b6-15fc-45f5-8b31-2fe24a7cfa6b?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "The ex-journalist trying to fix Europe’s worst deficit",
+    "link": "https://www.ft.com/content/85183619-921b-45b9-9b19-c2b90956207a?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Finance",
+    "source": "ECB - Press Releases",
+    "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "link": "https://arxiv.org/abs/2611.17338"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+    "link": "https://arxiv.org/abs/2611.17339"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "link": "https://arxiv.org/abs/2611.17340"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+    "link": "https://arxiv.org/abs/2611.17341"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "An Operationalization of Opaque Serial Depth",
+    "link": "https://arxiv.org/abs/2611.17495"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+    "link": "https://arxiv.org/abs/2611.17501"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+    "link": "https://arxiv.org/abs/2611.17515"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "link": "https://arxiv.org/abs/2611.17524"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+    "link": "https://arxiv.org/abs/2611.17532"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+    "link": "https://arxiv.org/abs/2611.17539"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+    "link": "https://arxiv.org/abs/2611.17564"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+    "link": "https://arxiv.org/abs/2611.17583"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+    "link": "https://arxiv.org/abs/2611.17610"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
+    "link": "https://arxiv.org/abs/2611.17616"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - cs.AI (هوش مصنوعی)",
+    "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+    "link": "https://arxiv.org/abs/2611.17620"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Analytic spread complexity in three-level systems and the spacing-ratio distribution",
+    "link": "https://arxiv.org/abs/2611.17417"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum violation of Causal Friendliness in the instrumental scenario",
+    "link": "https://arxiv.org/abs/2611.17431"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Fast mixing and thermal phases from strong decay of correlations",
+    "link": "https://arxiv.org/abs/2611.17433"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Optically-induced electric Aharonov-Bohm effect",
+    "link": "https://arxiv.org/abs/2611.17435"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "QuantumInputOutput.jl: A Julia framework for input-output theory with quantum pulses and the SLH formalism",
+    "link": "https://arxiv.org/abs/2611.17451"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Efficient quantum-circuit simulation of classical control of computational order",
+    "link": "https://arxiv.org/abs/2611.17454"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "The radical pair mechanism can generate nuclear-spin entanglement",
+    "link": "https://arxiv.org/abs/2611.17497"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Probing Spatiotemporal Quantum Correlations with Two-Qubit Relaxometry",
+    "link": "https://arxiv.org/abs/2611.17509"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Finite-time spectral enhancement of transient quantum thermometry",
+    "link": "https://arxiv.org/abs/2611.17522"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Recursive Quantum Alternating Operator Ansatz",
+    "link": "https://arxiv.org/abs/2611.17537"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "DRAG-Inspired Single Flux Quantum Control of Superconducting Qubits",
+    "link": "https://arxiv.org/abs/2611.17562"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Magic of Dicke states: density, cost and yield",
+    "link": "https://arxiv.org/abs/2611.17623"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Linear monitoring-feedback Model for Linearized gravity",
+    "link": "https://arxiv.org/abs/2611.17642"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Quantum Data Processing Unit for Neutral-Atom Quantum Computers",
+    "link": "https://arxiv.org/abs/2611.17652"
+  },
+  {
+    "date": "2026-11-16T09:15:49.033337+00:00",
+    "topic": "Edge of Science",
+    "source": "arXiv - quant-ph (فیزیک کوانتوم)",
+    "title": "Fast forward-and-backward creation of non-equilibrium Gibbs state in driven dissipative quantum systems",
+    "link": "https://arxiv.org/abs/2611.17738"
   }
 ]
