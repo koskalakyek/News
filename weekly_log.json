@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "date": "2026-11-16T01:41:26.211172+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn",
+    "link": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T01:41:26.211172+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Trump loses. European populism lives on | Martin Wolf on the US midterms",
+    "link": "https://www.ft.com/video/a850f929-d16a-40a0-bdd8-c153452016fc?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T01:41:26.211172+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal",
+    "link": "https://www.ft.com/content/f3564bae-f3b8-4d55-be4b-3d0930d6f948?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T01:41:26.211172+00:00",
+    "topic": "Finance",
+    "source": "Financial Times",
+    "title": "Estonia to close border with Russia after second alleged sabotage attempt",
+    "link": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1"
+  },
+  {
+    "date": "2026-11-16T01:41:26.211172+00:00",
+    "topic": "Edge of Science",
+    "source": "Ars Technica",
+    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+    "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+  }
+]
